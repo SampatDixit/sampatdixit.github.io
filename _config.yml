@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title : Welcome to Badmintonbuddy's Blog !
 description : Technology enabled and APPS related to Badminton
+github:
+  is_project_page: false
