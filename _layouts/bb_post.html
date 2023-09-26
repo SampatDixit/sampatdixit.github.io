@@ -1,0 +1,35 @@
+---
+layout: bb_default
+---
+<div class="container">
+
+<div>{% include breadcrumb.html %}</div>
+
+<article>
+
+  <header>
+    <h1 class="font-weight-bolder">{{ page.title | escape }}</h1>
+
+    <p class="text-muted">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          Published on {{ page.date | date: date_format }}
+        </time>
+      </p>
+  </header>
+
+  <section>
+    <div class="row">
+    <div class="col-12 col-lg-8">
+      {{ content }}
+    </div>
+    <div class="d-none d-md-block">
+      {% include article-side-nav.html %}
+    </div>
+  </div>
+  </section>
+
+
+
+</article>
+</div>
