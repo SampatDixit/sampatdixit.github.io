@@ -2,7 +2,7 @@
 layout: bb_guide_post
 author: Sampat
 permalink: /drive/guide/getting-started
-title: Getting Started with Badmintonbuddy DRIVE
+title: Getting Started
 date: 2023-09-25
 ---
 ![alt](https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png)
