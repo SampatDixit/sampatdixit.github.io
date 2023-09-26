@@ -12,9 +12,9 @@ layout: bb_default
       <h1 class="font-weight-bolder">{{ page.title | escape }}</h1>
 
       <p class="text-muted">
-        <time datetime="{{ page.date | date_to_xmlschema }}">
+        {% include reading-time.html %} | <time datetime="{{ page.date | date_to_xmlschema }}">
           {%- assign date_format = "%b %-d, %Y" -%}
-          Published on {{ page.date | date: date_format }}
+          {{ page.date | date: date_format }}
         </time>
       </p>
     </header>

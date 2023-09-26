@@ -5,3 +5,4 @@ title: Home
 
 [Help center](/help)
 [Blog center](/blog)
+[Guide](/drive)
