@@ -10,6 +10,7 @@ layout: bb_default
 
     <header>
       <h1 class="font-weight-bolder">{{ page.title | escape }}</h1>
+      <p class="lead text-body-secondary">{{ page.excerpt | escape }}</p>
 
       <p class="text-muted">
         {% include reading-time.html %} | <time datetime="{{ page.date | date_to_xmlschema }}">
@@ -19,7 +20,17 @@ layout: bb_default
       </p>
     </header>
 
+
+    {% if page.image %}
+      <div class="row">
+        <img alt="{{page.imagealt}}" src="{{page.image}}" />
+      </div>
+
+      {% endif %}
+
+
     <section>
+      
       <div class="row">
         <!-- Guide content -->
         <div class="col-12 col-lg-8">

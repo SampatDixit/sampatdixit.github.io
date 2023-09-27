@@ -9,6 +9,7 @@ layout: bb_default
 
   <header>
     <h1 class="font-weight-bolder">{{ page.title | escape }}</h1>
+    <p class="lead">{{page.subtitle | escape }}</p>
 
     <p class="text-muted">
         <time datetime="{{ page.date | date_to_xmlschema }}">
