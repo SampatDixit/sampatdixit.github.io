@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jemoji
 
 # A list of the pages to display in the navigation bar
 header_pages:

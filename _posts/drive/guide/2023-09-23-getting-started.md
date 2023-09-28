@@ -5,7 +5,7 @@ permalink: /drive/guide/getting-started
 title: Getting Started
 excerpt: A step-by-step guide on how to get started with Badmintonbuddy DRIVE
 date: 2023-09-25
-image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png
+image: /assets/img/drive/guide/getting-started.png
 imagealt: Getting started with DRIVE
 ---
 
@@ -36,4 +36,6 @@ Additionally, you can give access to your team members (partners, coaches, manag
 1. Click Batch from the bottom and go to batch list screen and then click **NEW**
 2. Add a name to the batch, an optional description, if you have all students within the batch having same fees you can also add fees details and then hit **SAVE**
 
-> Tip: If you have a batch which starts at 4PM you can name the batch as 4–5PM batch, that’s easy to recognise and remember.
+:bulb: **TIP-** If you have a batch which starts at 4PM you can name the batch as **4–5 PM** batch, that’s easy to recognise and remember.
+
+
