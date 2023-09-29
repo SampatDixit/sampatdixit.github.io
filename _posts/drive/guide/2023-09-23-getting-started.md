@@ -17,7 +17,7 @@ The APP works on a basic concept that — all students are part of a batch(or ba
 
 So start with
 
-1. **Creating a Batch**
+1. **Adding a Batch**
 2. **Adding Students (with fees, date of joining, other details)** and
 3. **Start tracking fees (paid/pending),**
 
