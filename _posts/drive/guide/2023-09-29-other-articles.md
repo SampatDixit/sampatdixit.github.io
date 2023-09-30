@@ -2,14 +2,13 @@
 layout: bb_guide_post
 author: Sampat
 permalink: /drive/guide/getting-started
-title: Getting Started
+title: General guide articles
 excerpt: A step-by-step guide on how to get started with Badmintonbuddy DRIVE
 date: 2023-09-25
 image: /assets/img/drive/guide/getting-started.png
 imagealt: Getting started with DRIVE
 tags: basic how-to
 categories: guide
-position: hero
 ---
 
 Badmintonbuddy DRIVE is the one and only software APP designed to manage badminton academies (supporting multi-sports) and is used by more than 200+ academies to manage their day-to-day academy operations.

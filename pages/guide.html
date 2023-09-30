@@ -6,111 +6,32 @@ redirect_from:
     /drive
 ---
 
-
-
-<div class="container">
-    <!-- Jumbotron -->
-    <div class="jumbotron p-4 p-md-5 rounded bg-white border">
-        <div class="row">
-            <div class="col-12 col-md-6">
-                <img src="/assets/img/drive/guide/getting-started.png" />
-
-            </div>
-            <div class="col-12 col-md-6 px-0">
-                <h1 class="display-4">Getting started</h1>
-                <p class="lead my-3">A step-by-step guide on how to get started with Badmintonbuddy DRIVE.</p>
-                <p class="lead mb-0"><a href="/drive/guide/getting-started" class="font-weight-bold">Get started...</a></p>
-            </div>
-        </div>
-    </div>
-    <!-- Jumbotron -->
-
-
-
-
+<div class="container">    
+    <!-- Hero Article -->
+    {% for page in site.posts%}
+        {% if page.categories contains 'guide' and page.position == 'hero'%}
+            {% include jumbotron.html %}
+        {% endif %}
+    {% endfor %}
+    <!-- Hero Article -->
 
     <div class="row">
-        <div class="col-md-4">
-            <div class="card">
-                <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png"
-                    class="card-img-top" alt="Step 2 Thumbnail">
+        <!-- Featured Article (Only 3) -->
+        {% for page in site.posts%}
+            {% if page.categories contains 'guide' and page.position == 'featured'%}
+                {% include featured.html %}
+            {% endif %}
+        {% endfor %}
+        <!-- Featured Article -->  
+    </div>    
 
-                <div class="card-body">
-                    <a href="/drive/guide/getting-started">
-                        <h5 class="card-title">Getting started</h5>
-                    </a>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">A step-by-step guide on how to get started with
-                        Badmintonbuddy DRIVE</h6>
-                    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-                </div>
-            </div>
-        </div>
+    {% include promo-box.html %}
 
-        <div class="col-md-4">
-            <div class="card">
-                <img src="step2.jpg" class="card-img-top" alt="Step 2 Thumbnail">
-                <div class="card-body">
-                    <h5 class="card-title">Step 2</h5>
-                    <p class="card-text">Phasellus non justo eget metus lacinia commodo non vel ante.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <img src="step2.jpg" class="card-img-top" alt="Step 2 Thumbnail">
-
-                <div class="card-body">
-                    <a href="/getting-started">
-                        <h5 class="card-title">Card title</h5>
-                    </a>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row mt-2">
-        <div class="col-md-4">
-            <div class="card no-border">
-                <img src="step1.jpg" class="card-img-top" alt="Step 1 Thumbnail">
-                <div class="card-body">
-                    <a href="/drive/guide/getting-started">
-                        <h5 class="card-title">1. New to Badmintonbuddy DRIVE</h5>
-                    </a>
-                    <p class="card-text">Get an overview of all the capabilities of the APP.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <img src="step2.jpg" class="card-img-top" alt="Step 2 Thumbnail">
-                <div class="card-body">
-                    <h5 class="card-title">Step 2</h5>
-                    <p class="card-text">Phasellus non justo eget metus lacinia commodo non vel ante.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
-                <img src="step2.jpg" class="card-img-top" alt="Step 2 Thumbnail">
-
-                <div class="card-body">
-                    <a href="/getting-started">
-                        <h5 class="card-title">Card title</h5>
-                    </a>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- Other Articles -->
+    {% for page in site.posts%}
+        {% if page.categories contains 'guide' and page.position != 'featured' and page.position != 'hero'%}
+            {% include article-overview.html %}
+        {% endif %}
+    {% endfor %}
+    <!-- Other Articles -->
 </div>

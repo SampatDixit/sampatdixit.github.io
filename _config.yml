@@ -26,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Build settings
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji

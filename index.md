@@ -1,5 +1,5 @@
 ---
-layout: blog-home
+layout: resources-home
 title: Home
 carousels:
     - images:
