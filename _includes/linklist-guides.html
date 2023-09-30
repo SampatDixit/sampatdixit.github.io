@@ -1,0 +1,24 @@
+<div class="jumbotron bg-transparent mt-5">
+    <p class="lead">Browse through all the guides.</p>
+    <hr class="my-4">
+    <div class="row">
+        <!-- Batch related links -->
+        <div class="col-md-3">
+            <h6>Batch related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'batch'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- Batch related links -->
+
+        <!-- Student related links -->
+
+        <!-- Student related links -->
+    </div>
+</div>
