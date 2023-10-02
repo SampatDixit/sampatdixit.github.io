@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # repository: "nicolas-van/bootstrap-4-github-pages"
 
 # Archives
+# Code from - https://aneejian.com/automated-jekyll-archives-github-pages/
 collections:
   archives:
     output: true

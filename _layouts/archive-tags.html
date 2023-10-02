@@ -1,22 +1,50 @@
 ---
 layout: bb_default
-title: Archive
+title: Tag page
 ---
+
+<div class="container">
+    <section>
+        <div class="row border-bottom pb-5">
+            <div class="col-12 col-lg-8">
+                <h2> All posts for {{page.title}}</h2>
+
+                {% for post in site.posts %}
+                {% if post.tags contains page.tag or post.tag == page.tag %}
+                    <div class="col-4">
+                        <a href="{{page.url}}">
+                            <img src="{{page.image}}"/>
+                        </a>
+                    </div>
+                    <div class="col-8">
+                        <h3>{{page.title}}</h3>
+                        <h5>{{page.excerpt}}</h5>
+                    </div>
+                {% endif %}
+
+                {% endfor %}
+            </div>
+        </div>
+
+
+    </section>
+</div>
+
 
 <!-- Begin List Posts
 ================================================== -->
 <section class="recent-posts">
-<div class="section-title mt-2">
-    <h2>{{ page.title }}</h2>
-</div>
-<div class="row listrecent">
+    <div class="section-title mt-2">
+        <h2>{{ page.title }}</h2>
+    </div>
+    <div class="row listrecent">
 
-{% for post in site.posts %}
-{% if post.tags contains page.tag or post.tag == page.tag %}
-    Hello from tag
-{% endif %}    
+        {% for post in site.posts %}
+        {% if post.tags contains page.tag or post.tag == page.tag %}
+        Hello from tag
+        {% endif %}
 
-{% endfor %}
+        {% endfor %}
 
-</div>
+    </div>
 </section>
