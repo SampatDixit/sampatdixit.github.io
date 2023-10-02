@@ -7,7 +7,7 @@ title: Tag page
     <section>
         <div class="row">
             <div class="col-12 col-lg-8">
-                <h2> All posts for {{page.title}}</h2>
+                <h2 class="mb-2"> All posts for {{page.title}}</h2>
                 {% for post in site.posts %}
                 {% if post.tags contains page.tag or post.tag == page.tag %}
                 <div class="row border-bottom py-5">
