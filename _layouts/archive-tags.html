@@ -12,13 +12,13 @@ title: Tag page
                 {% for post in site.posts %}
                 {% if post.tags contains page.tag or post.tag == page.tag %}
                     <div class="col-4">
-                        <a href="{{page.url}}">
-                            <img src="{{page.image}}"/>
+                        <a href="{{post.url}}">
+                            <img src="{{post.image}}"/>
                         </a>
                     </div>
                     <div class="col-8">
-                        <h3>{{page.title}}</h3>
-                        <h5>{{page.excerpt}}</h5>
+                        <h3>{{post.title}}</h3>
+                        <h5>{{post.excerpt}}</h5>
                     </div>
                 {% endif %}
 
