@@ -1,15 +1,13 @@
 ---
 layout: bb_default
-title: A detailed guide on how to use Badmintonbuddy DRIVE
-permalink: /drive/guide
-redirect_from:
-    /drive
+title: All blogs related to badminton and badmintonbuddy
+permalink: /blog
 ---
 
 <div class="container">
     <!-- Hero Article -->
     {% for page in site.posts%}
-    {% if page.categories contains 'guide' and page.position == 'hero'%}
+    {% if page.categories contains 'blog' and page.position == 'hero'%}
     {% include jumbotron.html %}
     {% endif %}
     {% endfor %}
@@ -22,7 +20,7 @@ redirect_from:
 
     <div class="row">
         {% for page in site.posts%}
-        {% if page.categories contains 'guide' and page.position == 'featured'%}
+        {% if page.categories contains 'blog' and page.position == 'featured'%}
         {% include featured.html %}
         {% endif %}
         {% endfor %}
@@ -37,7 +35,7 @@ redirect_from:
     </div>
     <div class="row">
         {% for page in site.posts%}
-        {% if page.categories contains 'guide' and page.position != 'featured' and page.position != 'hero'%}
+        {% if page.categories contains 'blog' and page.position != 'featured' and page.position != 'hero'%}
         {% include article-overview.html %}
         {% endif %}
         {% endfor %}
@@ -45,11 +43,7 @@ redirect_from:
     <!-- Other Articles -->
     <div class="row mt-2">
         <div class="col-12">
-        <a href="/category/guide" class="btn btn-primary">ALL GUIDES <i class="fa fa-arrow-right"></i></a>
+            <a href="/category/blog" class="btn btn-primary">ALL BLOGS <i class="fa fa-arrow-right"></i></a>
+        </div>
     </div>
-    </div>
-
-    <!-- Curated Link list with Categories -->
-    {% include linklist-guides.html %}
-    <!-- Curated Link list with Categories -->
 </div>

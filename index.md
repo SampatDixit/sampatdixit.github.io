@@ -8,7 +8,6 @@ carousels:
         - image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png
 ---
 
-[Help center](/help)
 [Blog center](/blog)
 [Guide](/drive)
 

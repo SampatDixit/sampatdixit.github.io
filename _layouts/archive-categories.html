@@ -3,20 +3,28 @@ layout: bb_default
 title: Archive
 ---
 
-<!-- Begin List Posts
-================================================== -->
-<section class="recent-posts">
-<div class="section-title mt-2">
-    <h2>{{ page.title }}</span></h2>
+<div class="container">
+    <section>
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <h2 class="mb-2"> All posts for {{page.title}}</h2>
+                {% for post in site.posts %}
+                {% if post.categories contains page.category or post.category == page.category %}                
+                <div class="row border-bottom py-5">
+                    <div class="col-md-4 d-none d-md-block">
+                        <a href="{{post.url}}">
+                            <img src="{{post.image}}" />
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-8">
+                        <a href="{{post.url}}" class="h5">{{post.title}}</a>
+                        <p class="lead">{{post.excerpt}}</p>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% endfor %}
+            </div>
+        </div>
+    </section>
 </div>
-<div class="row listrecent">
-
-{% for post in site.posts %}
-{% if post.categories contains page.category or post.category == page.category %}
-    Hello category  
-{% endif %}    
-
-{% endfor %}
-
-</div>
-</section>
