@@ -1,15 +1,8 @@
 ---
 layout: resources-home
-title: Home
-carousels:
-    - images:
-        - image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png
-        - image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png
-        - image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*heeSvDKyk33oMdnUmgPvwg.png
+title: Resources home
 ---
 
-[Blog center](/blog)
-[Guide](/drive)
+{% include promo-box.html %}
 
-
-{% include carousel.html height="25" unit="%" duration="7" number="1" %}
+{% include linklist-guides.html %}
