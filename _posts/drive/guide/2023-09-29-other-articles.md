@@ -1,13 +1,13 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/getting-started
+permalink: /drive/guide/articles
 title: General guide articles
 excerpt: A step-by-step guide on how to get started with Badmintonbuddy DRIVE
 date: 2023-09-25
 image: /assets/img/drive/guide/getting-started.png
 imagealt: Getting started with DRIVE
-tags: basic how-to
+tags: basic how-to one two three four five six seven eight nine 10 11 12
 categories: guide
 ---
 

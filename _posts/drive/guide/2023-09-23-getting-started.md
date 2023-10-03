@@ -40,5 +40,3 @@ Additionally, you can give access to your team members (partners, coaches, manag
 2. Add a name to the batch, an optional description, if you have all students within the batch having same fees you can also add fees details and then hit **SAVE**
 
 :bulb: **TIP-** If you have a batch which starts at 4PM you can name the batch as **4–5 PM** batch, that’s easy to recognise and remember.
-
-
