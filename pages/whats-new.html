@@ -3,4 +3,39 @@ layout: bb_default
 title: All the new release updates related to Badmintonbuddy DRIVE
 permalink: /whats-new
 ---
-This is whats new page
+
+<div class="container">
+    <section>
+        <div class="row">
+            <div class="col-12 h2">All the latest features of Badmintonbuddy DRIVE</div>
+        </div>
+        <div class="row">
+
+            <div class="col-12 col-lg-8">
+                {% for post in site.posts %}
+                {% if post.categories contains 'whats-new' %}
+                <div class="row border-bottom py-5">
+                    <div class="col-md-4 d-none d-md-block">
+                        <a href="{{post.url}}">
+                            <img src="{{post.image}}" />
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-8">
+                        <a href="{{post.url}}" class="h5">{{post.title}}</a>
+                        <p class="text-muted">{{post.excerpt}}</p>
+                        <p class="text-muted small">
+                            Released on
+                            <time datetime="{{ post.date | date_to_xmlschema }}">
+                                {%- assign date_format = "%b %-d, %Y" -%}
+                                {{ post.date | date: date_format }}
+                            </time>
+                        </p>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+</div>

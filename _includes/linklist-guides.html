@@ -18,7 +18,78 @@
         <!-- Batch related links -->
 
         <!-- Student related links -->
-
+        <div class="col-md-3">
+            <h6>Student related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'student'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}  
+                {% endfor %}
+            </ul>
+        </div>
         <!-- Student related links -->
+
+        <!-- Enquiries related links -->
+        <div class="col-md-3">
+            <h6>Enquiry related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'enquiry'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}  
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- Enquiries related links -->
+
+        <!-- Report related links -->
+        <div class="col-md-3">
+            <h6>Report related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'report'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}  
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- Report related links -->
+
+        <!-- Attendance related links -->
+        <div class="col-md-3">
+            <h6>Attendance related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'attendance'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}  
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- Attendance related links -->
+
+        <!-- Team related links -->
+        <div class="col-md-3">
+            <h6>Team related</h6>
+            <ul>
+                {% for page in site.posts %}
+                {% if page.categories contains 'guide' and page.tags contains 'tean'%}
+                <li type="square">
+                    <a href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %}  
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- Team related links -->
     </div>
 </div>
