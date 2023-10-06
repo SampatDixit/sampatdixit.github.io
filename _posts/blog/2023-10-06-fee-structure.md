@@ -7,7 +7,7 @@ excerpt: Best practices and tips on structuring your academy fees for optimal re
 date: 2023-10-04
 image: /assets/img/blog/fee-structure.png
 imagealt: Fee structure
-tags: fee-structure
+tags: fee-structure academy-tips
 categories: blog
 position: featured
 ---
