@@ -16,9 +16,11 @@ position: hero
 #### 1. Objective of your academy
 Set clear goals and objectives for your badminton academy. This would help you be focused towards your goals and plan the academy activities or design coaching programs accordingly.
 
-:bulb: **For example:**
-*Provide a friendly environment to members with best in class facilities.
-Build top ranked players(if your strength is coaching).*
+:bulb: **Example**
+
+*Provide a friendly environment to members with best in class facilities.*
+
+*Build top ranked players(if your strength is coaching).*
 
 {% include h-seperator.html %}
 
