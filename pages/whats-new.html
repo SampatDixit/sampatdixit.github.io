@@ -15,11 +15,13 @@ permalink: /whats-new
                 {% for post in site.posts %}
                 {% if post.categories contains 'whats-new' %}
                 <div class="row border-bottom py-5">
-                    <div class="col-md-4 d-none d-md-block">
-                        <a href="{{post.url}}">
-                            <img src="{{post.image}}" />
-                        </a>
-                    </div>
+                    {% if post contains post.image%}
+                        <div class="col-md-4 d-none d-md-block">
+                            <a href="{{post.url}}">
+                                <img src="{{post.image}}" />
+                            </a>
+                        </div>
+                    {%endif%}
                     <div class="col-12 col-md-8">
                         <a href="{{post.url}}" class="h5">{{post.title}}</a>
                         <p class="text-muted">{{post.excerpt}}</p>

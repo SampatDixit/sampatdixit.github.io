@@ -18,7 +18,7 @@ title: Tag page
                     </div>
                     <div class="col-12 col-md-8">
                         <a href="{{post.url}}" class="h5">{{post.title}}</a>
-                        <p class="text-muted">{{post.excerpt}}</p>
+                        <p class="text-muted">{{post.excerpt | truncatewords: 10}}</p>
                     </div>
                 </div>
                 {% endif %}
