@@ -10,3 +10,5 @@ categories: guide
 ---
 
 ###### TODO : Add use cases and samples
+
+Referred in the what's new page for custom field - remove comment once draft is pushed

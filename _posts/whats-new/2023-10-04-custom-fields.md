@@ -22,6 +22,6 @@ The video above shows some samples on using each of these field type in detail a
 
 {%include h-seperator.html %}
 
-{% include also-read.html text='Tips on using Custom Fields' url='/drive/guide/custom-fields-examples'%}
+<!-- {% include also-read.html text='Tips on using Custom Fields' url='/drive/guide/custom-fields-examples'%} -->
 
 {%include h-seperator.html %}
