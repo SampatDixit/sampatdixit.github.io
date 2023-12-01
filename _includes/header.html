@@ -1,7 +1,8 @@
-<nav class="navbar navbar-light navbar-expand-lg bg-white shadow">
-  <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
-      <img src="/assets/img/blog_logo.png" width="100" alt="">
+<nav class="navbar navbar-light navbar-expand-lg bg-white shadow sticky-top">
+  <div class="container-fluid">
+    <!-- <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}"> -->
+      <a class="navbar-brand" rel="author" href="https://badmintonbuddy.com">
+      <img src="/assets/img/logo_new.png" width="100" alt="">
       <!-- {{ site.title | escape }} -->      
     </a>
 
@@ -16,11 +17,34 @@
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
           <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <!-- <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> -->
+            <a class="nav-link" href="https://badmintonbuddy.com">{{ my_page.title | escape }}</a>
           </li>
           {%- endif -%}
         {% endfor -%}
         <li class="nav-item">
+          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="https://badmintonbuddy.com">HOME</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="https://badmintonbuddy.com/#features">FEATURES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="https://badmintonbuddy.com/#testmonials">TESTIMONIALS</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle font-weight-bolder text-body text-uppercase small" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+            RESOURCES
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item small" href="/blog">BLOG</a>
+            <a class="dropdown-item small" href="/drive/guide">Guides & Tutorials</a>
+            <a class="dropdown-item small" href="/whats-new">What's new</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="https://badmintonbuddy.com/#contact">CONTACT US</a>
+        </li>
+        <!-- <li class="nav-item">
           <a class="nav-link font-weight-bolder text-body text-uppercase small" href="/blog">BLOG</a>
         </li>
         <li class="nav-item">
@@ -28,14 +52,13 @@
         </li>  
         <li class="nav-item">
             <i class="bi bi-search"></i>
-          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="/whats-new">What's new 
-            
-          
+          <a class="nav-link font-weight-bolder text-body text-uppercase small" href="/whats-new">What's new           
           </a>
-        </li>
-        <li class="nav-item">
+        </li> -->
+        
+        <!-- <li class="nav-item">
           <a class="nav-link font-weight-bolder text-white bg-primary text-uppercase px-2 small" href="https://badmintonbuddy.com/apps">GET APP</a>
-        </li>   
+        </li>    -->
         <li class="nav-item">
           <a class="nav-link font-weight-bolder mx-2" href="/search">
             <i class="fa fa-search fa-lg"></i>
