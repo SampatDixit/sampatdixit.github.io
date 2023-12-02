@@ -38,8 +38,9 @@ The most common method used by academies are the notebook method where you write
 
 <br/>
 
-###### Excel sheet method
+##### Excel sheet method
 Some academies log the data in an excel file. This is a better alternative to logging in books. You can have separate worksheet for each batch, add all students within that batch, their joining dates, due dates etc. You can also have a dashboard within excel combining all the data.
+
 **Advantages**
 - More structured and organised.
 - Can apply different filters based on due dates, joining dates etc.
@@ -54,10 +55,12 @@ Some academies log the data in an excel file. This is a better alternative to lo
 
 <br/>
 
-###### Dedicated system to track
+##### Dedicated system to track
+![Badmintonbuddy DRIVE!](/assets/img/drive/guide/all-in-one.png "simple and elegant")
+
 Build a dedicated system with all the fee tracking, fee-reminders, fee-receipts or use [Badmintonbuddy DRIVE](https://badmintonbuddy.com) to get a clear view of all pending fees and student, automatically remind them when their fees is due and when they are paid send them the fee receipts.
 
-![Badmintonbuddy DRIVE!](/assets/img/drive/guide/all-in-one.png "simple and elegant")
+
 
 {% include h-seperator.html %}
 {% include promo-box.html %}
