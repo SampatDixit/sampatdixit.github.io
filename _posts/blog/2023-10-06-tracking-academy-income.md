@@ -29,6 +29,7 @@ The most common method used by academies are the notebook method where you write
 **Advantages**
 - Easy to start, control on how you want to write
 - Best method if you are a starting a new academy with few kids/members
+
 **Disadvantages**
 - Does not work after some-time when students increase
 - Does not give a clear picture of how much is pending fees, how many are pending etc.
@@ -44,6 +45,7 @@ Some academies log the data in an excel file. This is a better alternative to lo
 - Can apply different filters based on due dates, joining dates etc.
 - Shared across the team and can have one format used by all the team members in the academy
 - Derive lots of reports like fees pending reports, fee collected reports etc
+
 **Disadvantages**
 - Not everyone of your staff understands Excel well
 - Cannot remind the pending students/members of fees payment
