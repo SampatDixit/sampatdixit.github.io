@@ -2,8 +2,8 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/new-badminton-academy
-title: Starting a new badminton academy?
-excerpt: 10 things to know before you start
+title: Starting a badminton academy - 10 things to know before you start
+excerpt: Useful tips to help you get started and manage smoothly
 date: 2023-10-03
 image: /assets/img/blog/new-academy.png
 imagealt: New badminton academy
@@ -63,3 +63,20 @@ Plan and organize in batches so that you can accommodate members as well as stud
 Plan to keep some stock of badminton accessories like shuttles which are needed by players on a day-to-day basis. Many academies also provide shoes and rackets on hourly rentals (helps in earning additional revenue).
 
 {% include h-seperator.html %}
+
+#### 8. Organize tournaments/events
+Try to organize tournaments on a regular basis (this could also be outsourced) so that new players and badminton enthusiasts get to know about the academy and start coming regularly. Establish relationships with local schools, housing complex and other organizations to expand and grow.
+
+{% include h-seperator.html %}
+
+#### 9. Promotion
+Utilize social media like Instagram and Facebook to promote your academy. Post photos and videos of your facility , training videos etc and engage with potential students and members.
+
+{% include h-seperator.html %}
+
+#### 10. Track Financials and Grow
+Capture all the [financials of your academy](/tracking-academy-income) on a daily basis. Invest in a system like [this](https://badmintonbuddy.com) which would help you analyse and generate all the reports for running your academy profitable.
+
+{% include h-seperator.html %}
+
+:speech_balloon: **Hope these tips and best practices are useful and we would love to hear back from you in comments if we are missing anything.**
