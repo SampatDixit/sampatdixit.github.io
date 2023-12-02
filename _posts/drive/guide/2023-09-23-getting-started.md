@@ -33,6 +33,8 @@ Additionally, you can give access to your team members (partners, coaches, manag
 
 ## Step-by-step instructions ##
 
+<br/>
+
 ### 1. Adding a Batch ###
 
 ![Adding a batch!](/assets/img/drive/guide/new-batch-flow.png "New batch flow")
@@ -42,6 +44,8 @@ Additionally, you can give access to your team members (partners, coaches, manag
 
 :bulb: **TIP-** If you have a batch which starts at 4PM you can name the batch as **4–5 PM** batch, that’s easy to recognise and remember.
 
+<br/>
+
 ### 2. Add Students for the batch ###
 
 ![Adding students!](/assets/img/drive/guide/new-student-flow.png "New student flow")
@@ -49,7 +53,9 @@ Additionally, you can give access to your team members (partners, coaches, manag
 1. Click on **ADD STUDENT** to add new student information.
 2. Add all information related to student like name, phone no, joining date, photo of student etc and click **ADD**
 
-:bulb: **TIP-** Want to add more data for student. Use [Custom fields](../whats-new/custom-fields)
+:bulb: **TIP-** Want to add more data for student. Use [Custom fields](../../whats-new/custom-fields)
+
+<br/>
 
 ### 3. Start tracking fees (paid/pending) ###
 
@@ -58,6 +64,8 @@ Additionally, you can give access to your team members (partners, coaches, manag
 1. Go to **FEES** tab and update last fee paid information by clicking **MARK PAID**. This will automatically start tracking all next due-dates as well as remind them when they are due.
 
 :bulb: **TIP-** Set automatic reminder ON so that you do not want to remind the students/parents when they are due.
+
+<br/>
 
 ### 3. Reports ###
 
