@@ -2,9 +2,9 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/new-badminton-academy
-title: Starting a badminton academy - 10 things to know before you start
+title: 10 things to know before you start your dream badminton academy
 excerpt: Useful tips to help you get started and manage smoothly
-date: 2023-10-03
+date: 2023-12-04
 image: /assets/img/blog/new-academy.png
 imagealt: New badminton academy
 tags: new-academy
@@ -12,6 +12,10 @@ categories: blog
 position: hero
 ---
 {% include h-seperator.html %}
+
+Are you planning to start a new academy or already have an academy and want to run it more effeciently. These 10 points should help you acheive you dream badminton academy.
+
+<br/>
 
 #### 1. Objective of your academy
 Set clear goals and objectives for your badminton academy. This would help you be focused towards your goals and plan the academy activities or design coaching programs accordingly.
