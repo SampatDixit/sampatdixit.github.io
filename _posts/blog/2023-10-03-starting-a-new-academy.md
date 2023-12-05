@@ -26,7 +26,8 @@ Set clear goals and objectives for your badminton academy. This would help you b
 
 *Build top ranked players(if your strength is coaching).*
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 2. Pricing/fee structure
 
@@ -34,13 +35,15 @@ Set a proper and competitive [pricing/fee structure](/blog/fee-structure-badmint
 
 It’s also important that you have a clear system in place to record all the fees collected and also track all the pending fees and follow-up (this is one of the most challenging task which most academies face within India).
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 3. Safe and Friendly environment
 
 Create a welcoming, safe, and fun environment for your students and members. This will help to foster a sense of community and camaraderie. This would also help spread the word of mouth for your academy.
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 4. Stay Organised
 
@@ -56,31 +59,34 @@ Create an effective system to track student/member information, attendance, fees
 
 Invest in quality coaching. Quality coaches can help you attract more customers. A great team of coaches can make all the difference in the success of your academy.
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 6. Proper Scheduling (batches)
 Plan and organize in batches so that you can accommodate members as well as students. Offer multiple batches with different timings based on the court availability and demand (evenings are usually reserved for coaching, mornings and late nights for memberships).
 
-{% include h-seperator.html %}
+<br/>
 
 #### 7. Accessories and Essentials
 Plan to keep some stock of badminton accessories like shuttles which are needed by players on a day-to-day basis. Many academies also provide shoes and rackets on hourly rentals (helps in earning additional revenue).
 
-{% include h-seperator.html %}
+<br/>
 
 #### 8. Organize tournaments/events
 Try to organize tournaments on a regular basis (this could also be outsourced) so that new players and badminton enthusiasts get to know about the academy and start coming regularly. Establish relationships with local schools, housing complex and other organizations to expand and grow.
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 9. Promotion
 Utilize social media like Instagram and Facebook to promote your academy. Post photos and videos of your facility , training videos etc and engage with potential students and members.
 
-{% include h-seperator.html %}
+<br/>
+
 
 #### 10. Track Financials and Grow
 Capture all the [financials of your academy](/tracking-academy-income) on a daily basis. Invest in a system like [this](https://badmintonbuddy.com) which would help you analyse and generate all the reports for running your academy profitable.
 
 {% include h-seperator.html %}
 
-:speech_balloon: **Hope these tips and best practices are useful and we would love to hear back from you in comments if we are missing anything.**
+

@@ -46,7 +46,3 @@ Coaching is where you train the kids/adults and help them learn badminton skills
 *Note: In coaching, attendance is one of the major factor to track the completion of fee cycle (especially session-wise). At times they also expect compensation for missed classes and this is most commonly seen across academies.*
 
 {% include h-seperator.html %}
-
-
-
-:speech_balloon: **Hope these tips and best practices are useful and we would love to hear back from you in comments if we are missing anything.**

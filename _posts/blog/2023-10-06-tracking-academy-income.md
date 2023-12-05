@@ -67,4 +67,3 @@ Build a dedicated system with all the fee tracking, fee-reminders, fee-receipts 
 
 {% include h-seperator.html %}
 
-:speech_balloon: **Hope this comprehensive guide helps you in tracking fees effectively in your academy. We would love to hear back from you in comments if we are missing anything.**

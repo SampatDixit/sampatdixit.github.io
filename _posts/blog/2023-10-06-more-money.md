@@ -59,5 +59,3 @@ If you have expertise and have budget to buy a stringing machine this is one of 
 
 
 {% include h-seperator.html %}
-
-:speech_balloon: **Hope these tips and best practices are useful and we would love to hear back from you in comments if we are missing anything.**
