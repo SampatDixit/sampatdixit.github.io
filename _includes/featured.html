@@ -1,16 +1,16 @@
 <!-- Featured article -->
-<div class="col-md-4">
+<div class="col-md-4 d-flex align-items-stretch">
     <div class="card">
         <!-- <div class="card-header bg-transparent p-1 border-0">
             <span class="badge badge-primary">
                 Featured
             </span>
         </div> -->
-        <img src="{{ page.image}}" class="card-img-top" alt="{{ page.imagealt}}">
+        <img src="{{page.image}}" class="card-img-top" alt="{{ page.imagealt}}">
 
         <div class="card-body">
             <a href="{{page.url}}">
-                <h5 class="card-title">{{page.title}}</h5>
+                <h5 class="card-title text-primary">{{page.title}}</h5>
             </a>
             <div class="card-subtitle mb-3 text-secondary">{{page.excerpt | truncatewords: 10}}</div>
 

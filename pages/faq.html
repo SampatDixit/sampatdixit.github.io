@@ -1,0 +1,38 @@
+---
+layout: bb_default
+title: All blogs related to badminton and badmintonbuddy
+permalink: /faq
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="text-primary font-weight-bold py-2">Frequently asked questions</h2>
+            <hr/>
+        </div>
+        <!-- <hr class="col-8"> -->
+    </div>
+    <div class="row">
+        
+    <div class="accordion col-12 col-lg-8" id="faq-accordian">
+        {% for faq in site.data.faq %}
+        <div class="card">
+            <div class="card-header" id="faq-{{forloop.index}}">
+              <h2 class="mb-0">
+                <button class="btn btn-link font-weight-bold btn-block text-left text-primary bold" type="button" data-toggle="collapse" data-target="#faq-{{forloop.index}}" aria-expanded="false" aria-controls="faq-{{forloop.index}}">
+                  {{ faq.question }}
+                </button>
+              </h2>
+            </div>
+        
+            <div id="faq-{{forloop.index}}" class="collapse show" aria-labelledby="headingOne" data-parent="#faq-accordian">
+              <div class="card-body">
+                {{ faq.answer }}
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+    </div>
+    </div>
+</div>
+
