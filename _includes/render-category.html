@@ -1,0 +1,15 @@
+<div class="row mt-1">
+    <div class="col-12">
+        {% for cat in page.categories %}
+        <a href="/category/{{cat}}" class="badge text-wrap py-1 mr-1">
+            {% if cat == "blog" %}
+                Badmintonbuddy Blogs
+            {% elsif cat == "guide" %}
+                Badmintonbuddy Feature Guide
+            {% elsif cat == 'whats-new' %}
+                Badmintonbuddy What's new
+            {% endif %}            
+        </a>
+        {% endfor %}
+    </div>
+</div>

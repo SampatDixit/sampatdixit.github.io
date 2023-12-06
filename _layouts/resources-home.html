@@ -1,6 +1,24 @@
 ---
 layout: bb_default
 ---
+
+<!-- Hero Article -->
+{% for page in site.posts%}
+{% if page.categories contains 'blog' and page.position == 'hero'%}
+{% include jumbotron.html %}
+{% endif %}
+{% endfor %}
+<!-- Hero Article -->
+
+
+
+
+
+
+
+
+
+
 <div class="row d-flex justify-content-center my-5 mx-5">
   <div class="col-sm-3 mb-3">
     <a href="/drive/guide">

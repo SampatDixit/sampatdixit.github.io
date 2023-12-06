@@ -15,16 +15,12 @@ position: hero
 
 Are you planning to start a new academy or already have an academy and want to run it more effeciently. These 10 points should help you acheive you dream badminton academy.
 
-<br/>
-
 #### 1. Objective of your academy
 Set clear goals and objectives for your badminton academy. This would help you be focused towards your goals and plan the academy activities or design coaching programs accordingly.
 
 :bulb: **Example**
 
-*Provide a friendly environment to members with best in class facilities.*
-
-*Build top ranked players(if your strength is coaching).*
+*Provide a friendly environment to members with best in class facilities. Build top ranked players(if coaching is your strength).*
 
 <br/>
 
