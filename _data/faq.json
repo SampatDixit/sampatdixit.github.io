@@ -1,10 +1,34 @@
 [
     {
-        "question":"How safe is Badmintonbuddy DRIVE?",
-        "answer":"Everything is hosted on secure cloud and none of the data is shared apart from your academy. You have full control of the data and can delete if you wish to discountinue."
+        "question":"How safe is my academy data if I use Badmintonbuddy?",
+        "answer":"Your academy data is completely secure with Badmintonbuddy. We never share your data with anyone or anywhere. All information is stored in a highly secure cloud server, ensuring that <b>only you and your team have access</b> to the data. Your privacy and data security are our top priorities."
     },
     {
-        "question":"How many students can we add in the APP?",
-        "answer":"There is no limit on numbers of students added in the APP. The APP is designed for academies of all size."
+        "question":"Can I give access to my coaches and academy manager?",
+        "answer":"Yes, you can easily provide access to your coaches and academy manager. Utilize the 'Add team' feature outlined in the <a href='guide/drive/add-team'>guide</a>. Additionally, you have the flexibility to control their permissions through the <a href='guide/drive/how-to-permissions'>Permissions feature</a>, allowing you to tailor access levels according to your preferences."
+    },
+    {
+        "question":"What happens if the coach left the academy and still has access to the app?",
+        "answer":"As the owner, you have the power to revoke access from your academy. By promptly removing access, the coach or any team member will no longer be able to access any data associated with your academy. This ensures the security and confidentiality of your academy's information even after a team member departs. See <a href='guide/drive/how-to-remove-team'>Removing team member</a>"
+    },
+    {
+        "question":"How many students/members can I add in the app?",
+        "answer":"There is no limit to the number of students you can add. Enjoy complete flexibility by adding or removing students as needed, accommodating changes in your roster seamlessly as members join or leave your academy. See <a href='/guide/drive/adding-student'>Adding student</a> guide for more information."
+    },
+    {
+        "question":"Is there a way to download the data of all students/fees, etc.?",
+        "answer":"Absolutely! You can download all data in both PDF and Excel formats at any time. This includes student information, fees, and more. Additionally, you have the option to download income and expense reports for your academy, covering any period of time. Refer to the <a href='/guide/drive/download-academy-data'>downloading academy data</a> guide for detailed instructions."
+    },
+    {
+        "question":"Is Badmintonbuddy DRIVE free, or do I need to pay?",
+        "answer":"Badmintonbuddy DRIVE is free for small academies with up to 30 students. You can manage all your student data, add teams, and more at no cost. As your academy grows, our software offers advanced features to streamline your operations. For larger academies, we charge a nominal monthly fee. Check out <a href='/guide/drive/how-pricing-works'>how it's billed</a> for more details.<br/>Our software aims to enhance your academy management by addressing issues like untracked pending fees, track non-active students, bringing transparency to your operations. Explore the <a href='/guide/drive/how-drive-helps-academy'>how it helps</a> guide for a deeper understanding."
+    },
+    {
+        "question":"Can I manage multiple centers in the app?",
+        "answer":"Absolutely! The app is designed to efficiently manage any number of centers. As the owner, you can access all the data in one place and effortlessly switch between centers with just a click of a button. For more details, refer to the <a href='/guide/drive/add-multiple-centers'>multiple centers guide</a>. Streamline your management across various centers with ease."
+    },
+    {
+        "question":"Can I manage multiple sports, or is it designed only for badminton?",
+        "answer":"Yes, you can efficiently manage multiple sports on our platform. Many academies are already successfully managing various sports such as cricket, football, yoga, and fitness centers. Explore the <a href='/guide/drive/managing-multi-sports'>managing multi-sports guide</a> for more information on how our platform caters to the diverse needs of different sports disciplines."
     }
 ]

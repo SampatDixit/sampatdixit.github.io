@@ -12,20 +12,19 @@ permalink: /faq
         </div>
         <!-- <hr class="col-8"> -->
     </div>
-    <div class="row">
-        
-    <div class="accordion col-12 col-lg-8" id="faq-accordian">
+    <div class="row">        
+    <div class="accordion col-12 col-lg-9" id="faq-accordian">
         {% for faq in site.data.faq %}
         <div class="card">
             <div class="card-header" id="faq-{{forloop.index}}">
               <h2 class="mb-0">
-                <button class="btn btn-link font-weight-bold btn-block text-left text-primary bold" type="button" data-toggle="collapse" data-target="#faq-{{forloop.index}}" aria-expanded="false" aria-controls="faq-{{forloop.index}}">
+                <button class="btn btn-link font-weight-bold btn-block text-left text-primary bold" type="button" data-toggle="collapse" data-target="#collapse-{{forloop.index}}" aria-expanded="{% if forloop.index==1%}true{% else %}false{% endif %}" aria-controls="collapse-{{forloop.index}}">
                   {{ faq.question }}
                 </button>
               </h2>
             </div>
         
-            <div id="faq-{{forloop.index}}" class="collapse show" aria-labelledby="headingOne" data-parent="#faq-accordian">
+            <div id="collapse-{{forloop.index}}" class="collapse {% if forloop.index==1%}show{% endif %}" aria-labelledby="faq-{{forloop.index}}" data-parent="#faq-accordian">
               <div class="card-body">
                 {{ faq.answer }}
               </div>
@@ -33,6 +32,17 @@ permalink: /faq
           </div>
           {% endfor %}
     </div>
+    </div>
+
+    <div class="row my-5">
+      <hr class="col-12"/>
+      <h5 class="col-12">Still have questions? 
+        <a href='https://api.whatsapp.com/send?phone=918208879151&text=Hello, I have a question..'>
+        Whatsapp us
+      </a> or 
+      <a href='tel:+918208879151'>
+      call us
+    </a> and we will be happy to answer your queries.</h2>
     </div>
 </div>
 
