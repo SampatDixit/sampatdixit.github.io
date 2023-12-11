@@ -62,7 +62,7 @@ Note: As per the [latest official update](https://www.badmintonindia.org/downloa
  
 * The BAI Office will assign the Player ID and also update it on the BAI website within the respective section. After receiving the designated player ID, you will become eligible to participate in national-level tournaments.
 
-* All details of BAI regulations along with the form are available on [BAI website](https://www.badmintonindia.org/download/registration_new1.pdf){:target="_blank"}. **_Kindly check this form is the latest one_**
+* All details of BAI regulations along with the form are available on [BAI website](https://www.badmintonindia.org/download/registration_new1.pdf){:target="_blank"}(**_Kindly check this form is the latest one_**).
 
 *  The BAI Office will assign the Player ID and also update it on the BAI website within the respective section(_A minimum processing time of 30 days is necessary to issue a BAI ID after receiving the ID application_). 
 
