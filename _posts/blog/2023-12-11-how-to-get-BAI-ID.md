@@ -1,7 +1,7 @@
 ---
 layout: bb_blog_post
 author: Sampat
-permalink: /blog/how-to-get-BAI-ID(Badminton Association Of India ID)
+permalink: /blog/how-to-get-BAI-ID(badminton-association-ID)
 title: How To Get BAI-ID? A Gateway For National-Level Participation
 excerpt: Know how to get BAI ID for national-level badminton tournaments. Follow our guide on the BAI ID application, steps to apply, and eligibility as per BAI regulations.
 date: 2023-12-11
