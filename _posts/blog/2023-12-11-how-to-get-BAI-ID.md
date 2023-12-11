@@ -7,7 +7,7 @@ excerpt: Know how to get BAI ID for national-level badminton tournaments. Follow
 date: 2023-12-11
 image: /assets/img/blog/bai-id.png
 imagealt: How to get BAI-ID
-tags: badminton BAI-ID
+tags: badminton baiid
 categories: blog
 position: featured
 ---
