@@ -43,7 +43,7 @@ So, how do you apply for a BAI-ID? Is there any specific eligibility to get it? 
 
 To create a new BAI ID, the player has to pay Rs 3000/- and a Rs 50/- stamp paper is needed for an affidavit to confirm specific details like birthplace, date, and venue. As per current charges As per the from the [latest official update](https://www.badmintonindia.org/download/news/For%20Creation%20of%20BAI%20IDr1.pdf){:target="_blank"}
 
-_Besides, to create a new **BWF ID (one time)**, you have to pay Rs 5000/-._
+_Besides, to create a new **BWF-ID (this is for International participation)**, you have to pay Rs 5000/-._
 
 ## Validity of BAI ID {#validity-of-bai-id}
 
