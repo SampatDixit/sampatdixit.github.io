@@ -9,6 +9,7 @@ image: /assets/img/blog/bai-id.png
 imagealt: How to get BAI-ID
 tags: badminton BAI-ID
 categories: blog
+position: featured
 ---
 {% include h-seperator.html %}
 
