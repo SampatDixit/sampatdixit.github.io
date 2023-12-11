@@ -41,7 +41,7 @@ So, how do you apply for a BAI-ID? Is there any specific eligibility to get it? 
 
 ## How Much Does It Cost To Get BAI ID For First Time? {#how-much-does-it-cost-to-get-bai-id-for-first-time}
 
-To create a new BAI ID, the player has to pay Rs 3000/- and a Rs 50/- stamp paper is needed for an affidavit to confirm specific details like birthplace, date, and venue. As per current charges As per the from the [latest official update](https://www.badmintonindia.org/download/news/For%20Creation%20of%20BAI%20IDr1.pdf){:target="_blank"}
+To create a new BAI ID, the player has to pay Rs 3000/- and a Rs 50/- stamp paper is needed for an affidavit to confirm specific details like birthplace, date, and venue. As per the [latest official document](https://www.badmintonindia.org/download/news/For%20Creation%20of%20BAI%20IDr1.pdf){:target="_blank"}
 
 _Besides, to create a new **BWF-ID (this is for International participation)**, you have to pay Rs 5000/-._
 
@@ -63,9 +63,9 @@ Note: As per the [latest official update](https://www.badmintonindia.org/downloa
  
 * The BAI Office will assign the Player ID and also update it on the BAI website within the respective section. After receiving the designated player ID, you will become eligible to participate in national-level tournaments.
 
-* All details of BAI regulations along with the form are available on [BAI website](https://www.badmintonindia.org/download/registration_new1.pdf){:target="_blank"}(**_Kindly check this form is the latest one_**).
+* All details of BAI regulations along with the form are available on [BAI website](https://www.badmintonindia.org/download/registration_new1.pdf){:target="_blank"} (**_Kindly check this form is the latest one_**).
 
-*  The BAI Office will assign the Player ID and also update it on the BAI website within the respective section(_A minimum processing time of 30 days is necessary to issue a BAI ID after receiving the ID application_). 
+*  The BAI Office will assign the Player ID and also update it on the BAI website within the respective section (_A minimum processing time of 30 days is necessary to issue a BAI ID after receiving the ID application_). 
 
 **After receiving the designated player ID, you will become eligible to participate in national-level tournaments.**
 
