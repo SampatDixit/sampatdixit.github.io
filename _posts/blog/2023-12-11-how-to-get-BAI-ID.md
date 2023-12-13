@@ -1,7 +1,7 @@
 ---
 layout: bb_blog_post
 author: Sampat
-permalink: /blog/how-to-get-BAI-ID(badminton-association-ID)
+permalink: /blog/how-to-get-bai-id
 title: How To Get BAI-ID? A Gateway For National-Level Participation
 excerpt: Know how to get BAI ID for national-level badminton tournaments. Follow our guide on the BAI ID application, steps to apply, and eligibility as per BAI regulations.
 date: 2023-12-11
@@ -41,7 +41,7 @@ So, how do you apply for a BAI-ID? Is there any specific eligibility to get it? 
 
 ## How Much Does It Cost To Get BAI ID For First Time? {#how-much-does-it-cost-to-get-bai-id-for-first-time}
 
-To create a new BAI ID, the player has to pay Rs 3000/- and a Rs 50/- stamp paper is needed for an affidavit to confirm specific details like birthplace, date, and venue. As per the [latest official document](https://www.badmintonindia.org/download/news/For%20Creation%20of%20BAI%20IDr1.pdf){:target="_blank"}
+To create a new BAI ID, the player has to pay Rs 3000/- and a Rs 50/- stamp paper is needed for an affidavit to confirm specific details like birthplace, date, and venue (as per the [latest official document](https://www.badmintonindia.org/download/news/For%20Creation%20of%20BAI%20IDr1.pdf){:target="_blank"}).
 
 _Besides, to create a new **BWF-ID (this is for International participation)**, you have to pay Rs 5000/-._
 
