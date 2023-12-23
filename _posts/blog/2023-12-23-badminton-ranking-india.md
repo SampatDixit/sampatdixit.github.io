@@ -83,6 +83,7 @@ The National rankings(BAI rankings) are constantly released and made accessible 
 
 Based on points and performance, the National/BAI Ranking system determines eligibility and seeding, influencing opportunities at various levels. 
 
+{%include also-read.html text="How to get BAI-ID?" url="/blog/how-to-get-bai-id" %}
 
 We hope this guide has provided a valuable resource for coaches, players, and anyone trying to understand the ranking system in Badminton (within India). 
 
