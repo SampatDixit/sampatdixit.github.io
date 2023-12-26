@@ -27,32 +27,32 @@ This guide covers
 - [How Is Ranking Calculated?](#how-is-ranking-calculated)
 - [How Do I Check National Rankings?](#how-do-i-check-national-rankings?)
 
-## What Is Ranking In Badminton?  {#what-is-ranking-in-badminton}
+## What Is Ranking In Badminton?
 
 To evaluate players or pairs(for doubles) performance over a defined timeframe. Rankings present a hierarchical arrangement of players and pairs based on their strengths, determined through a points-based system. These points are awarded when you play a state or national ranking tournament and [points vary as you progress](#how-is-ranking-calculated) in each stage of the tournament.
 
 
-## Why Is Player Ranking Important? {#why-is-player-ranking-important}
+## Why Is Player Ranking Important?
 
 Player ranking serves as a crucial entry criterion for many competitive tournaments. Ranking plays a key role in draws of tournaments, guaranteeing matchups between players or pairs with comparable skill levels. It is a methodical approach that guarantees a thorough assessment of players' eligibility and skills for participation in diverse tournaments.
 
 
-## Types of Badminton Ranking In India {#types-of-badminton-ranking-in-india}
+## Types of Badminton Ranking In India 
 
 There are two types of ranking in India for the players to play badminton. It includes:
 
 
-### 1. National Ranking (BAI Ranking)  {#1-national-ranking-bai-ranking}
+### 1. National Ranking (BAI Ranking)
 
 It is the national-level player ranking in India. It allows the players to represent their country in national-level Badminton Tournaments (see [BAI tournament calendar](https://www.badmintonindia.org/beta/events/calendar/bai/)).
 
 
-### 2. State Ranking in India {#2-state-ranking-in-india}
+### 2. State Ranking in India
 
 Each state run by the state badminton association has its own state-level ranking. By securing it, a player can represent a state in various badminton tournaments.
 
 
-## Eligibility Criteria For Playing Ranking Tournaments in India {#eligibility-criteria-for-playing-ranking-tournaments-in-india}
+## Eligibility Criteria For Playing Ranking Tournaments in India
 
 Below are some of the important factors that influence the [eligibility of players](https://www.badmintonindia.org/download/regulations/FINAL%20REVISED%20COMPETITION%20REGULATION.pdf) to secure the top position or get a ranking.
 
@@ -64,7 +64,7 @@ Below are some of the important factors that influence the [eligibility of playe
 * **Anti-Doping Compliance:** Players may need to comply with anti-doping regulations and undergo doping tests to ensure a level playing field.
 
 
-## How Is Ranking Calculated? {#how-is-ranking-calculated}
+## How Is Ranking Calculated?
 
 The [BAI (Badminton Association of India)](https://www.badmintonindia.org/) calculates players’ ranking at the national level, and each state badminton association calculates raking at the state level. 
 
@@ -77,7 +77,7 @@ It is calculated as follows:
 3. The players are ranked from the highest to the lowest points, so the one with the most points is **ranked as No. 1**.
 
 
-## How Do I Check National Rankings? {#how-do-i-check-national-rankings}
+## How Do I Check National Rankings?
 
 The National rankings(BAI rankings) are constantly released and made accessible after each tournament on the official BAI website (or respective state association website for state-rankings). Visit the [player ranking](https://www.badmintonindia.org/beta/players/rankings/senior/) section on the official website to check the current No. 1 in each category. This provides a transparent and easily accessible platform for individuals to check ranking and stay updated.
 
