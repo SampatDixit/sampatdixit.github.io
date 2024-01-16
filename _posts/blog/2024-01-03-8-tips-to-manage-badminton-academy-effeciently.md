@@ -93,5 +93,3 @@ Whether you are **managing inquiries** for new batches, class schedules or fee i
 Additionally, ensure that every inquiry saves essential information such as players’ name inquirer, contact details, nature of the inquiry, and any other relevant details. This data forms the basis for effective follow-up and analysis.
 
 {% include h-seperator.html %}
-
-
