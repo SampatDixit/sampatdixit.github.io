@@ -64,7 +64,7 @@ The pen-and-paper mode for tracking students attendance is susceptible to loss o
 
 So, **online attendance tracking systems** are important to maintain consistency in recording and reporting students’ attendance in your badminton academy.
 
-{%include also-read.html text="5 reasons why attendance is important?" url="/blog/5-reasons-why-attendance-is-important" %}
+{%include also-read.html text="5 reasons to take attendance at your academy" url="/blog/5-reason-for-attendance-badminton-academy" %}
 
 
 ### 5. Easy court booking {#easy-court-booking}
