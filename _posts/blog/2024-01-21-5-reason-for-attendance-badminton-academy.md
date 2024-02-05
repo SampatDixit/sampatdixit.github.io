@@ -45,7 +45,7 @@ Tracking attendance is crucial for accurate **fee calculation**, especially when
 
 Daily attendance helps to know which members are irregular or inactive. At times, students quit academy without informing the academy team or coaches. So, if you track their attendance, you can easily catch up on these anomalies and have a follow-up with the student. 
 
-{%include also-read.html text="Tips to manage your badminton acaedmy smoothly" url="/blog/8-tips-to-manage-badminton-academy-effeciently" %}
+{%include also-read.html text="Tips to manage your badminton academy smoothly" url="/blog/8-tips-to-manage-badminton-academy-effeciently" %}
 
 
 
