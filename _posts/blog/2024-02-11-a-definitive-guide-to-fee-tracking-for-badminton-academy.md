@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat Dixit
 permalink: /blog/guide-to-fee-tracking-badminton-academy
-title: A definitive guide to fee-tracking for badminton academy
+title: A Definitive Guide To Fee-tracking For Badminton Academy
 excerpt: Learn how efficient fee-tracking impacts badminton academies financial stability. Explore methods, challenges, and solutions for an accurate fees management process.
 date: 2024-02-11
 image: /assets/img/blog/fee-tracking-guide.png
