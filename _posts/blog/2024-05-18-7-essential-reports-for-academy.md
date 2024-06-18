@@ -16,24 +16,20 @@ Running a badminton academy efficiently requires keeping track of various aspect
 
 In today’s guide, you will learn:
 
-- [How to Get Started with Reports](#get-started)
 - [Essential Reports For Your Academy](#essential-reports) 
+- [How to Get Started with Reports](#get-started)
 - [How to use reports](#using-reports)
-
-
-## How to Get Started with Reports {#get-started}
-To have the right academy reports, you need to have the right data in place and in a structured manner. Capturing and recording data properly helps you generate reports easily. Managing data manually in notebooks can be cumbersome and tedious. Instead, you can use an Excel sheet or software like [Badmintonbuddy DRIVE](https://badmintonbuddy.com/apps?utm_source=blog&utm_medium=article&utm_campaign=seven-report-blog-2024&utm_content=top-link) to get reports automatically.
-
-{% include h-seperator.html %}
-
-{% include promo-box.html %}
-{% include h-seperator.html %}
 
 
 ## Essential Reports For Your Academy {#essential-reports}
 
 1. **Student Joining and Drop-Off Report**: This report helps track trends in student enrollment and drop-outs. Understanding why students are joining or leaving the academy enables management to focus on what works and address any underlying issues causing students to leave.
 ![Screenshot from Badmintonbuddy DRIVE](/assets/img/blog/join-drop-report.png)
+
+{% include h-seperator.html %}
+
+{% include promo-box.html %}
+{% include h-seperator.html %}
 
 2. **Fees Paid and Pending Report**: Although fees are typically collected monthly, there are often pending payments. This report identifies the total amount pending and lists the students who owe fees. It’s crucial for timely follow-ups to ensure all dues are collected.
 ![Fees pending report](/assets/img/blog/fee-report.png)
@@ -48,6 +44,10 @@ To have the right academy reports, you need to have the right data in place and 
 7. **Staff Attendance Report**: Besides student-related reports, tracking staff attendance is equally important. This report monitors the regularity of coaches, managers, and other staff, which is essential for ensuring quality coaching and managing salary-related matters.
 
 *All these reports are available out of the box with [Badmintonbuddy DRIVE](https://badmintonbuddy.com/apps?utm_source=blog&utm_medium=article&utm_campaign=seven-report-blog-2024&utm_content=bottom-link)*
+
+## How to Get Started with Reports {#get-started}
+To have the right academy reports, you need to have the right data in place and in a structured manner. Capturing and recording data properly helps you generate reports easily. Managing data manually in notebooks can be cumbersome and tedious. Instead, you can use an Excel sheet or software like [Badmintonbuddy DRIVE](https://badmintonbuddy.com/apps?utm_source=blog&utm_medium=article&utm_campaign=seven-report-blog-2024&utm_content=top-link) to get reports automatically.
+
 
 ## How to use these reports {#using-reports}
 Using these reports effectively can significantly enhance the management and success of your badminton academy. 
