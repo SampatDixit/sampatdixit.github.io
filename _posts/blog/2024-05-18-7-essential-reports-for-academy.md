@@ -23,25 +23,30 @@ In today’s guide, you will learn:
 
 ## Essential Reports For Your Academy {#essential-reports}
 
-1. **Student Joining and Drop-Off Report**: This report helps track trends in student enrollment and drop-outs. Understanding why students are joining or leaving the academy enables management to focus on what works and address any underlying issues causing students to leave.
-![Screenshot from Badmintonbuddy DRIVE](/assets/img/blog/join-drop-report.png)
+**1. Fees Paid and Pending Report**
+ Although fees are typically collected monthly, there are often pending payments. This report identifies the total amount pending and lists the students who owe fees. It’s crucial for timely follow-ups to ensure all dues are collected.
+![Fees pending report](/assets/img/blog/fee-report.png)
 
 {% include h-seperator.html %}
 
 {% include promo-box.html %}
 {% include h-seperator.html %}
 
-2. **Fees Paid and Pending Report**: Although fees are typically collected monthly, there are often pending payments. This report identifies the total amount pending and lists the students who owe fees. It’s crucial for timely follow-ups to ensure all dues are collected.
-![Fees pending report](/assets/img/blog/fee-report.png)
-3. **Batch Status Report**: Coaching is conducted in batches, and maintaining an optimal number of students in each batch is essential for quality training. This report helps monitor the number of students in each batch, ensuring balance and effectiveness in coaching.
+**2. Student Joining and Drop-Off Report**: This report helps track trends in student enrollment and drop-outs. Understanding why students are joining or leaving the academy enables management to focus on what works and address any underlying issues causing students to leave.
+![Screenshot from Badmintonbuddy DRIVE](/assets/img/blog/join-drop-report.png)
 
-4. **Enquiry Report**: Enquiries are potential leads for new admissions. This report tracks all inquiries, enabling the academy to follow up and convert these into actual admissions, thus boosting the academy’s growth.
 
-5. **Attendance Report**: Student attendance is vital for several reasons. It shows how engaged students are in their training and can indicate if a student is likely to continue. Regular attendance also helps assess how well a student is grasping the lessons.
 
-6. **Student Demographics Report**: Knowing the age categories of students is particularly helpful in designing appropriate batches and coaching methods. Grouping students of similar ages can keep them engaged and suitably challenged during practice sessions.
 
-7. **Staff Attendance Report**: Besides student-related reports, tracking staff attendance is equally important. This report monitors the regularity of coaches, managers, and other staff, which is essential for ensuring quality coaching and managing salary-related matters.
+**3. Batch Status Report**: Coaching is conducted in batches, and maintaining an optimal number of students in each batch is essential for quality training. This report helps monitor the number of students in each batch, ensuring balance and effectiveness in coaching.
+
+**4. Enquiry Report**: Enquiries are potential leads for new admissions. This report tracks all inquiries, enabling the academy to follow up and convert these into actual admissions, thus boosting the academy’s growth.
+
+**5. Attendance Report**: Student attendance is vital for several reasons. It shows how engaged students are in their training and can indicate if a student is likely to continue. Regular attendance also helps assess how well a student is grasping the lessons.
+
+**6. Student Demographics Report**: Knowing the age categories of students is particularly helpful in designing appropriate batches and coaching methods. Grouping students of similar ages can keep them engaged and suitably challenged during practice sessions.
+
+**7. Staff Attendance Report**: Besides student-related reports, tracking staff attendance is equally important. This report monitors the regularity of coaches, managers, and other staff, which is essential for ensuring quality coaching and managing salary-related matters.
 
 *All these reports are available out of the box with [Badmintonbuddy DRIVE](https://badmintonbuddy.com/apps?utm_source=blog&utm_medium=article&utm_campaign=seven-report-blog-2024&utm_content=bottom-link)*
 
@@ -60,5 +65,4 @@ Using these reports effectively can significantly enhance the management and suc
 - **Staff Attendance Report** to manage staff schedules, ensure accountability, and streamline salary processing.
 
 By integrating these reports into your routine operations, you can make data-driven decisions that improve overall efficiency and student satisfaction.
-
 

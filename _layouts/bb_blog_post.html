@@ -5,7 +5,7 @@ layout: bb_default
   
   <div  class="mb-2 small">{% include breadcrumb.html %}</div>
 
-  <article>
+  <article class="offset-md-1 col-md-10 col-12">
     <header>
       <h1 class="font-weight-bold">{{ page.title | escape }}</h1>
       <p class="lead text-body-secondary">{{ page.excerpt | escape }}</p>
@@ -17,7 +17,7 @@ layout: bb_default
         </time>
       </p>
 
-      {% include render-tags.html %}
+      <!-- {% include render-tags.html %} -->
 
     </header>
 
@@ -25,7 +25,7 @@ layout: bb_default
 
       <div class="row">
         <!-- Guide content -->
-        <div class="col-12 col-lg-8">
+        <div class="col-12">
           {% if page.image %}
           <div class="row">
             <div class="col-12 mb-4">
@@ -45,9 +45,9 @@ layout: bb_default
         <!-- Guide content -->
 
         <!-- Side nav visible on large screen only -->
-        <div class="d-none d-md-block col-lg-4">
+        <!-- <div class="d-none d-md-block col-lg-4">
           {% include article-side-nav.html %}
-        </div>
+        </div> -->
         <!-- Side nav visible on large screen only -->
 
       </div>
