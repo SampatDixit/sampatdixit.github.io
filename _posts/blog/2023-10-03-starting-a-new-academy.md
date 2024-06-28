@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/new-badminton-academy
-title: 10 things to know before you start your dream badminton academy
+title: New Badminton Academy - 10 Things to Know Before You Start
 excerpt: Useful tips to help you get started and manage smoothly
 date: 2023-12-04
 image: /assets/img/blog/new-academy.png

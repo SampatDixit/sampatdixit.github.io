@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/tracking-academy-income
-title: Badminton academy fees - Track the pending fees and get it on time..
+title: Badminton Academy Fees - Track the Pending Fees and Get it on Time
 excerpt: Different ways to track the dues and manage easily
 date: 2023-10-04
 image: /assets/img/blog/fee-tracking.png

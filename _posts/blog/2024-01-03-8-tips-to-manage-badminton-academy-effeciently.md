@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/8-tips-to-manage-badminton-academy-effeciently
-title: 8 effective tips to manage your badminton academy smoothly
+title: 8 Effective Tips to Manage Your Badminton Academy Smoothly
 excerpt: If you are already managing a badminton academy or starting a new one, this article is for you. 
 date: 2024-01-03
 image: /assets/img/blog/tips-to-manage.png

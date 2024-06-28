@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for faq in site.data.faq %}
+        {
+          "@type": "Question",
+          "name": "{{ faq.question | escape }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ faq.answer | markdownify | strip_html | escape }}"
+          }
+        }{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    

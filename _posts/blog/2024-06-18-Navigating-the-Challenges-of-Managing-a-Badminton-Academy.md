@@ -1,6 +1,6 @@
 ---
 layout: bb_blog_post
-author: Sampat Dixit
+author: Sampat
 permalink: /blog/challenges-badminton-academy
 title: Navigating the Challenges of Managing a Badminton Academy
 excerpt: Effective Strategies and Solutions for Streamlined Operations.

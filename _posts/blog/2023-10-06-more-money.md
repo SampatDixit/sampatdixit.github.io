@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/more-money-badminton-academy
-title: Want to generate more income from your badminton academy?
+title: Want to Generate More Income From Your Badminton Academy?
 excerpt: Here are various source of income and offerings to generate more revenue
 date: 2023-10-04
 image: /assets/img/blog/new-revenue.png

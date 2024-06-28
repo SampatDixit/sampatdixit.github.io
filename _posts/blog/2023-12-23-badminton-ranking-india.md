@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/badminton-ranking-india
-title: Who is India No.1 in badminton? How is rank calculated?
+title: Who is India No.1 in Badminton? How is Rank Calculated?
 excerpt: All the details about National(and state) rankings in badminton, how is it calculated, and where to check.
 date: 2023-12-23
 image: /assets/img/blog/badminton-ranking.png

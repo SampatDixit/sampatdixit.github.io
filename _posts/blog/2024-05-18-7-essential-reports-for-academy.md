@@ -1,6 +1,6 @@
 ---
 layout: bb_blog_post
-author: Sampat Dixit
+author: Sampat
 permalink: /blog/reports-badminton-academy
 title: 7 Essential Reports to Boost the Efficiency of Your Badminton Academy
 excerpt: Are you looking to enhance the operational efficiency of your badminton academy? Maintaining the right reports can make all the difference.
@@ -65,4 +65,3 @@ Using these reports effectively can significantly enhance the management and suc
 - **Staff Attendance Report** to manage staff schedules, ensure accountability, and streamline salary processing.
 
 By integrating these reports into your routine operations, you can make data-driven decisions that improve overall efficiency and student satisfaction.
-

@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/fee-structure-badminton-academy
-title: Fee structure for your badminton academy
+title: Fee Structure For Your Badminton Academy
 excerpt: Best practices and tips on structuring your academy fees for optimal revenue
 date: 2023-10-04
 image: /assets/img/blog/fee-structure.png

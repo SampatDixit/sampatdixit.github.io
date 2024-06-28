@@ -1,8 +1,8 @@
 ---
 layout: bb_blog_post
-author: Sharmistha Banerjee
+author: Sampat
 permalink: /blog/5-reason-for-attendance-badminton-academy
-title: 5 reasons to take attendance at your badminton academy
+title: 5 Reasons To Take Attendance At Your Badminton academy
 excerpt: Boost your badminton academy’s journey through consistent attendance of your students.
 date: 2024-01-21
 image: /assets/img/blog/why-attendance.png

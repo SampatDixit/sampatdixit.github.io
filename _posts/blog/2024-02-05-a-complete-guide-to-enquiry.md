@@ -1,6 +1,6 @@
 ---
 layout: bb_blog_post
-author: Sharmistha Banerjee
+author: Sampat
 permalink: /blog/guide-to-enquiry-badminton-academy
 title: A Complete Guide to Enquiries at Badminton Academy
 excerpt: Learn to know about enquiry management and how it can create lead generation to improve your badminton academy’s profit.
