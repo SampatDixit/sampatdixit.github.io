@@ -7,15 +7,16 @@
                 "articles": [
                     {
                         "title": "Why Badmintonbuddy DRIVE?",
-                        "url": "getting-started/why-badmintonbuddy-drive"
+                        "url": "drive/guide/getting-started/why-badmintonbuddy-drive"
+                    },
+                    
+                    {
+                        "title": "Data Security",
+                        "url": "drive/guide/getting-started/security"
                     },
                     {
                         "title": "Creating account",
-                        "url": "getting-started/creating-account"
-                    },
-                    {
-                        "title": "Initial details",
-                        "url": "getting-started/initial-details"
+                        "url": "drive/guide/getting-started/creating-account"
                     }
                 ]
             }

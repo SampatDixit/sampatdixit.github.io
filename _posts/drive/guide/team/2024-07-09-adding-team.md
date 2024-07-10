@@ -9,8 +9,8 @@ tags: team
 categories: guide
 ---
 
-You can easily add your **co-owner, coach, manager or admin** of you academy and have access to the same data real-time. 
-You can also [set the right permissions](/drive/guide/team-permissions) for the team member to allow/restrict certain features of the APP. 
+You can easily add your **co-owner, coach, manager or admin** of your academy. Once added you all have access to the same data *(no more sharing data manually)*.
+You can [set the right access/permissions](/drive/guide/team-permissions) for the team member to allow/restrict different functionalities within the APP. 
 
 
 You as an owner get real-time updates as your team member adds a new student, or receive a fees, or a new enquiry etc. 
