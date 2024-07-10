@@ -23,4 +23,6 @@ We understand the importance of your academy data security and privacy and we ha
 
 :point_right: **Uninterrupted Service:** Our app has maintained no downtime, not even for a minute, over the last seven years, ensuring constant availability and reliability.
 
+Even our [customers vouch](https://badmintonbuddy.com/review) for this. Check out [here !!](https://badmintonbuddy.com/review)
+
 Your privacy and security are our top priorities, ensuring a safe, private, and consistently available experience.
