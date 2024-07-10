@@ -1,0 +1,59 @@
+[
+    {
+        "section": "intro",
+        "topics": [
+            {
+                "name": "Get started",
+                "articles": [
+                    {
+                        "title": "Why Badmintonbuddy DRIVE?",
+                        "url": "getting-started/why-badmintonbuddy-drive"
+                    },
+                    {
+                        "title": "Creating account",
+                        "url": "getting-started/creating-account"
+                    },
+                    {
+                        "title": "Initial details",
+                        "url": "getting-started/initial-details"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Features",
+        "topics": [
+            {
+                "name": "Team",
+                "articles": [
+                    {
+                        "title": "Adding team",
+                        "url": "drive/guide/team/adding-team"
+                    },
+                    {
+                        "title": "Team permissions",
+                        "url": "drive/guide/team/team-permissions"
+                    },
+                    {
+                        "title": "Staff attendance (Checkin)",
+                        "url": "getting-started/staff-attendance"
+                    }
+                ]
+            },
+            {
+                "name": "Batch",
+                "articles": [
+                    {
+                        "title": "Adding batch",
+                        "url": "team/adding-batch"
+                    },
+                    {
+                        "title": "Batch best practices",
+                        "url": "team/batch-bestpractices"
+                    }
+                ]
+            }
+        ]
+    }
+]

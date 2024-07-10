@@ -1,0 +1,36 @@
+{% assign current_path = page.url %}  <!-- Set this dynamically in your Liquid environment -->
+{% assign base_url = site.url %}
+<small>
+<ul class="nav flex-column">
+    {% for section in site.data.guide-topics %}
+      {% assign section_open = false %}
+      {% for topic in section.topics %}
+        {% for article in topic.articles %}
+          {% if current_path contains article.url %}
+            {% assign section_open = true %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="collapse" href="#{{ section.section | replace: ' ', '' }}SubNav" role="button" aria-expanded="false" aria-controls="{{ section.section | replace: ' ', '' }}SubNav">
+          {{ section.section | upcase }}
+        </a>
+        <ul class="nav flex-column collapse{% if topic_open %} show{% endif %}" id="{{ topic.name | replace: ' ', '' }}SubNav"></ul>
+        <ul class="nav flex-column collapse{% for topic in section.topics %}{% for article in topic.articles %}{% if current_path contains article.url %} show{% assign section_open = true %}{% endif %}{% endfor %}{% endfor %}" id="{{ section.section | replace: ' ', '' }}SubNav">
+          {% for topic in section.topics %}
+            <li class="nav-item">
+              <a class="nav-link topic-name text-body ml-1" href="#">{{ topic.name  }}</a>
+              <ul class="nav flex-column ml-3">
+                {% for article in topic.articles %}
+                  <li class="nav-item">
+                    <a class="nav-link{% if current_path contains article.url %} active {%else%} text-body{% endif %}" href="{{ base_url }}/{{article.url}}">{{ article.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</small>

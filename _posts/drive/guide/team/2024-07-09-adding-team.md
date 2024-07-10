@@ -1,10 +1,10 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/adding-team
+permalink: /drive/guide/team/adding-team
 title: Adding team
 excerpt: Giving access to team members
-date: 2023-09-25
+date: 2024-07-09
 tags: team
 categories: guide
 ---
@@ -15,7 +15,7 @@ You can also [set the right permissions](/drive/guide/team-permissions) for the 
 
 You as an owner get real-time updates as your team member adds a new student, or receive a fees, or a new enquiry etc. 
 
-![Steps to add a team member](/assets/img/guide/adding-team.gif)
+![Steps to add a team member](/assets/img/guide/adding-team.gif){: .d-block .mx-auto .img-fluid style="max-height: 350px;"} 
 
 **Steps to add team member**
 

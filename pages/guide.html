@@ -13,43 +13,22 @@ redirect_from:
     {% include jumbotron.html %}
     {% endif %}
     {% endfor %}
-    <!-- Hero Article -->
-
-    <!-- Featured Article (Only 3) -->
-    <div class="row">
-        <p class="lead col-12">Featured articles</h3>
-    </div>
-
-    <div class="row">
-        {% for page in site.posts%}
-        {% if page.categories contains 'guide' and page.position == 'featured'%}
-        {% include featured.html %}
-        {% endif %}
-        {% endfor %}
-        <!-- Featured Article -->
-    </div>
-
-    {% include promo-box.html %}
+    
 
     <!-- Other Articles -->
     <div class="row">
-        <p class="lead col-12">Latest articles</h3>
+        <p class="lead col-12">ALL GUIDE ARTICLES</h3>
     </div>
     <div class="row">
+        <ul>
         {% for page in site.posts%}
-        {% if page.categories contains 'guide' and page.position != 'featured' and page.position != 'hero'%}
-        {% include article-overview.html %}
+        {% if page.categories contains 'guide' and page.position != 'hero'%}
+        <li>
+        <a href="{{page.url}}">{{page.title}}</a>
+        </li>
         {% endif %}
         {% endfor %}
+    </ul>
     </div>
-    <!-- Other Articles -->
-    <div class="row mt-2">
-        <div class="col-12">
-        <a href="/category/guide" class="btn btn-primary">ALL GUIDES <i class="fa fa-arrow-right"></i></a>
-    </div>
-    </div>
-
-    <!-- Curated Link list with Categories -->
-    {% include linklist-guides.html %}
-    <!-- Curated Link list with Categories -->
+   
 </div>
