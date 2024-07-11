@@ -9,7 +9,7 @@ tags: security
 categories: guide
 ---
 
-We understand the importance of your academy data security and privacy and we have most robust measures to handle it :muscle:: 
+We understand the importance of data security and privacy of your academy data and we have most robust measures to handle it :muscle:: 
 
 :point_right: **Secure Servers:** All data transferred is stored on the most secure servers, ensuring your information is protected against unauthorized access.
 

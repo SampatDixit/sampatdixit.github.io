@@ -2,8 +2,15 @@
     {
         "name": "security",
         "body": {
-            "content": "This is most secure",
+            "content": "is the most secure and safe way to store your academy data. All data is stored on a secure server and is always available.",
             "link": "getting-started/security"
+        }
+    },
+    {
+        "name": "team-add",
+        "body": {
+            "content": "works like magic with multiple team members. You no longer need to worry about data not in sync, data being with someone else, or data theft. It's all in one place !! /n*ADD A TEAM MEMBER*",
+            "link": "team/adding-team"
         }
     }
 ]

@@ -9,7 +9,7 @@ tags: team
 categories: guide
 ---
 
-You can easily add your **co-owner, coach, manager or admin** of your academy. Once added you all have access to the same data *(no more sharing data manually)*.
+You can add your **co-owner, coach, manager or admin** of your academy. Once added you all have access to the same data *(no more sharing data manually)*.
 You can [set the right access/permissions](/drive/guide/team-permissions) for the team member to allow/restrict different functionalities within the APP. 
 
 
