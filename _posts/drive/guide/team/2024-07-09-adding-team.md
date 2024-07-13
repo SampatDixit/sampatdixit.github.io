@@ -15,7 +15,12 @@ You can [set the right access/permissions](/drive/guide/team/team-permissions) f
 
 You as an owner get real-time updates as your team member adds a new student, or receive a fees, or a new enquiry etc. 
 
-![Steps to add a team member](/assets/img/drive/guide/adding-team.mp4){: .d-block .mx-auto .img-fluid style="max-height: 350px;"} 
+<video width="320" height="350px;" controls>
+  <source src="/assets/img/drive/guide/adding-team.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- ![Steps to add a team member](/assets/img/drive/guide/adding-team.mp4){: .d-block .mx-auto .img-fluid style="max-height: 350px;"}  -->
 
 **Steps to add team member**
 
