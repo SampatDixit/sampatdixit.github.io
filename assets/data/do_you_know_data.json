@@ -1,16 +1,16 @@
 [
     {
         "name": "security",
-        "body": {
-            "content": "is the most secure and safe way to store your academy data. All data is stored on a secure server and is always available",
-            "link": "getting-started/security"
-        }
+        "template":"dyk_plan",
+        "params": ["Badmintonbuddy DRIVE is secure and safe","We understand the criticality of your academy data and its never shared or accessed other than your team !!"],
+        "video":"",
+        "link":"getting-started/security"
     },
     {
         "name": "team-add",
-        "body": {
-            "content": "works like magic with multiple team members. You no longer need to worry about data not in sync, data being with someone else, or data theft. It's all in one place.%0aADD YOUR TEAM MEMBER !!",
-            "link": "team/adding-team"
-        }
+        "template":"dyk_video",
+        "params":["You can add team (coach/admin/staff) and set the right permissions","It's fully configurable as per your needs !!"],
+        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-team.mp4",
+        "link": "team/adding-team"        
     }
 ]
