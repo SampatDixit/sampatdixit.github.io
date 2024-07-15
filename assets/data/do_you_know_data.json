@@ -8,9 +8,9 @@
     },
     {
         "name": "team-add",
-        "template":"dyk_video",
-        "params":["You can add your team (coach/admin/staff) and set the right permissions.","It's fully configurable as per your needs !!"],
-        "video":"https://www.youtube.com/shorts/gJRqdp1lzhU",
+        "template":"dyk_plan",
+        "params":["You can add your team (coach/admin/staff) and set the right permissions.","https://www.youtube.com/shorts/gJRqdp1lzhU"],
+        "video":"",
         "link": "team/adding-team"        
     }
 ]
