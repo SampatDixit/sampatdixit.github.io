@@ -13,14 +13,10 @@ You can add your **co-owner, coach, manager or admin** of your academy. Once add
 You can [set the right access/permissions](/drive/guide/team/team-permissions) for the team member to allow/restrict different functionalities within the APP. 
 
 
-You as an owner get real-time updates as your team member adds a new student, or receive a fees, or a new enquiry etc. 
+You as an owner get real-time updates as your team member adds a new student, or receive a fees, or a new enquiry etc.
 
-<video width="320" height="350px;" controls>
-  <source src="/assets/img/drive/guide/adding-team.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+{% include yt-shorts.html videoid='gJRqdp1lzhU'%}
 
-<!-- ![Steps to add a team member](/assets/img/drive/guide/adding-team.mp4){: .d-block .mx-auto .img-fluid style="max-height: 350px;"}  -->
 
 **Steps to add team member**
 

@@ -2,15 +2,15 @@
     {
         "name": "security",
         "template":"dyk_plan",
-        "params": ["Badmintonbuddy DRIVE is secure and safe","We understand the criticality of your academy data and its never shared or accessed other than your team !!"],
+        "params": ["Badmintonbuddy DRIVE is SAFE and SECURE.","We understand the importance of your academy data and assure you data security and it is only accessed by your team !!"],
         "video":"",
         "link":"getting-started/security"
     },
     {
         "name": "team-add",
         "template":"dyk_video",
-        "params":["You can add team (coach/admin/staff) and set the right permissions","It's fully configurable as per your needs !!"],
-        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-team.mp4",
+        "params":["You can add your team (coach/admin/staff) and set the right permissions.","It's fully configurable as per your needs !!"],
+        "video":"https://www.youtube.com/shorts/gJRqdp1lzhU",
         "link": "team/adding-team"        
     }
 ]
