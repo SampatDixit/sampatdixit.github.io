@@ -2,7 +2,7 @@
 layout: bb_guide_post
 author: Sampat
 permalink: /drive/guide/getting-started/security
-title: ":lock: Data security"
+title: "Data security :lock:"
 excerpt: Your academy data is safe and secure
 date: 2024-07-10
 tags: security

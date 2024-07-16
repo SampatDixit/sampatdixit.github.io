@@ -37,7 +37,7 @@
                         "url": "drive/guide/team/team-permissions"
                     },
                     {
-                        "title": "Staff attendance (Checkin)",
+                        "title": "Team/Staff attendance",
                         "url": "getting-started/staff-attendance"
                     }
                 ]
@@ -52,6 +52,14 @@
                     {
                         "title": "Batch best practices",
                         "url": "team/batch-bestpractices"
+                    }
+                ]
+            },{
+                "name":"Attendance",
+                "articles":[
+                    {
+                        "title":"Adding attendance",
+                        "url":"drive/guide/attendance/adding-attendance"
                     }
                 ]
             }
