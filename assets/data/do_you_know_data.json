@@ -10,7 +10,7 @@
         "link": "getting-started/security"
     },
     {
-        "name": "team-add",
+        "name": "team-add(video)",
         "template": "dyk_video_send",
         "params": [
             "You can add your team (coach/admin/staff) and set the right permissions.",
@@ -18,5 +18,15 @@
         ],
         "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-team.mp4",
         "link": "team/adding-team"
+    },
+    {
+        "name": "attendance-add(video)",
+        "template": "dyk_video_send",
+        "params": [
+            "Attendance takes just few seconds with Badmintonbuddy DRIVE.",
+            "Swipe right for present, swipe left for absent. It's that simple !!"
+        ],
+        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-attendance.mp4",
+        "link": "team/adding-attendance"
     }
 ]

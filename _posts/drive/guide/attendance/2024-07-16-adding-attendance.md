@@ -15,7 +15,7 @@ Taking attendance is a breeze and takes just a few seconds. The attendance scree
 
 #### Steps to Take Attendance
 
-{% include yt-shorts.html videoid='gJRqdp1lzhU'%}
+{% include yt-shorts.html videoid='XLig2i5MHe8'%}
 
 
 1. **Navigate to Home Screen**: Click the **+** button
