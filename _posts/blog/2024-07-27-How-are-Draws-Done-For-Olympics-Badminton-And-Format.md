@@ -37,6 +37,8 @@ The singles competition begins with a group play stage, where players are divide
 2. **Remaining Players:**
    - The rest of the players are distributed into the groups by lot in a step-by-step manner until all players are placed. 🔄
 
+{%include also-read.html text='How Olympics Badminton Teams are Selected By Countries' url='/blog/olympics-badminton-team-selection' %}
+
 ### Doubles Competition
 
 In the doubles competition, the seeding and distribution follow a similar but slightly simpler process.

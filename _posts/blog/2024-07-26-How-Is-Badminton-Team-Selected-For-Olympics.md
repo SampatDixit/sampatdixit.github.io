@@ -23,8 +23,12 @@ Each NOC (India, Indonesia, China, Denmark are all NOC countries) can send up to
 ## Doubles Events Qualification 👫
 For doubles events, each NOC can send up to two pairs per event if they are ranked within the top eight in the [BWF "Race to Paris" ranking list](https://www.tournamentsoftware.com/ranking/ranking.aspx?rid=447). If there are no pairs within the top eight, each NOC is allowed to send one pair per event until the total quota of 16 pairs per event is reached.
 
+{%include also-read.html text='How are draws done in Olympics' url='/blog/olympics-badminton-draws-and-format' %}
+
 ## Continental Representation and Additional Quotas 🌐
 The qualification system ensures representation from all continental regions—Africa, the Americas, Asia, Europe, and Oceania. Additional quota places are allocated to ensure this representation, providing a global stage for badminton talent.
+
+
 
 ## Conclusion 🌟
 The selection process for the Olympic badminton team is meticulously designed to ensure that the best players compete while guaranteeing continental representation. With a mix of top-ranked players and representatives from all regions, the competition at Paris 2024 promises to be intense and exciting. 
