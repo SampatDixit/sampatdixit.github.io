@@ -1,7 +1,7 @@
 ---
 layout: bb_blog_post
 author: Sampat
-permalink: /Blog/olympics-badminton-team-selection
+permalink: /blog/olympics-badminton-team-selection
 title: "How is the Badminton Team Selected for the Olympics? :badminton: :star2:"
 excerpt: Selection Criteria and Format.
 date: 2024-07-26
