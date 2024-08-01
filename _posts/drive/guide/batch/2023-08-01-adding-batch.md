@@ -16,7 +16,7 @@ A batch helps you organize multiple students into one group, who are coached tog
 
 
 1. **Navigate to the Batch Screen**: Located at the bottom of the screen.
-2. **Click on the ADD Button**: Found on the Batch screen.
+2. **Click on the NEW Button**: Found on the Batch screen.
 3. **Enter Batch Details**: Provide the batch name and start time.
 4. **Add Batch Days**: Include additional information if needed.
 5. **Click ADD**: Finalize your batch creation.
