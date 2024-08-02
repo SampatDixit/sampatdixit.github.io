@@ -9,7 +9,9 @@ tags: batch
 categories: guide
 ---
 
-Batching helps you manage multiple students in one group efficiently. Following best practices can enhance batch management and ease your workflow with Badmintonbuddy's features.
+Batching helps you manage multiple students in one group efficiently. Following best practices can enhance batch management and ease your workflow with ***Badmintonbuddy DRIVE features***.
+
+![Screenshot from Badmintonbuddy DRIVE](/assets/img/drive/guide/batch-screen.png){: .d-block .mx-auto .img-fluid style="max-height: 350px;"}
 
 1. **Easy-to-Remember Names**: Some of the naming practice followed by academies are:
    - **Time and Category**: e.g., *7-8 AM BEGINNERS*, *9-10 AM WEEKEND ADULTS*
@@ -22,5 +24,8 @@ Batching helps you manage multiple students in one group efficiently. Following 
 
 3. **Specify Batch Days**:
    - Add days (e.g., Monday, Wednesday) for easier filtering and attendance tracking.
+   
+3. **Additional data**:
+   - Add fees if you have common fees for all students in that batch..and if required add description.
 
 Share these tips with your team to ensure consistent and effective batch naming!
