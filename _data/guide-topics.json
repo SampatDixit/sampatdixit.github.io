@@ -47,11 +47,11 @@
                 "articles": [
                     {
                         "title": "Adding batch",
-                        "url": "batch/adding-batch"
+                        "url": "drive/guide/batch/adding-batch"
                     },
                     {
                         "title": "Batch best practices",
-                        "url": "batch/best-practice"
+                        "url": "drive/guide/batch/best-practice"
                     }
                 ]
             },{
