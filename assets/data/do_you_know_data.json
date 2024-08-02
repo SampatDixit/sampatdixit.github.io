@@ -20,6 +20,16 @@
         "link": "team/adding-team"
     },
     {
+        "name": "team-permisions(video)",
+        "template": "dyk_video_send",
+        "params": [
+            "Add your team and set the right permissions.",
+            "Set permissions and give your team only access to what they need !!"
+        ],
+        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/team-permissions.mp4",
+        "link": "team/team-permissions"
+    },
+    {
         "name": "attendance-add(video)",
         "template": "dyk_video_send",
         "params": [
@@ -28,5 +38,15 @@
         ],
         "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-attendance.mp4",
         "link": "attendance/adding-attendance"
+    },
+    {
+        "name": "batch-add(video)",
+        "template": "dyk_video_send",
+        "params": [
+            "Batch helps organize all students and members at your academy.",
+            "It's simple and easy to add/edit batches !!"
+        ],
+        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/adding-batch.mp4",
+        "link": "batch/adding-batch"
     }
 ]
