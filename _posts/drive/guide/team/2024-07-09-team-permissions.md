@@ -14,15 +14,14 @@ At times, you do not want the admin person to get details of all the reports or 
 
 All this is possible with right permissions !!
 
+{% include yt-shorts.html videoid='DGKZfhLY8ds'%}
+
 ### Steps to Set Permissions:
 
 1. **Click on the team member's name.**
 2. **Click on MANAGE PERMISSIONS button**
 3. **On the Permissions screen, enable or disable the features you want the team member to use.**
 
-See the demo below :point_down:
-
-![Steps to add a team member](/assets/img/guide/adding-team.gif){: .d-block .mx-auto .img-fluid style="max-height: 350px;"} 
 
 ### Sample Team Roles/Use Cases:
 
