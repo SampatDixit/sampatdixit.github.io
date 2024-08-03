@@ -9,7 +9,7 @@
     },
     {
         "question":"What happens if the coach left the academy and still has access to the app?",
-        "answer":"As the owner, you have the power to revoke access from your academy. By promptly removing access, the coach or any team member will no longer be able to access any data associated with your academy. This ensures the security and confidentiality of your academy's information even after a team member departs. See <a href='guide/drive/how-to-remove-team'>Removing team member</a>"
+        "answer":"As the owner, you have the power to revoke access from your academy. By promptly removing access, the coach or any team member will no longer be able to access any data associated with your academy. This ensures the security and confidentiality of your academy's information even after a team member departs. See <a href='drive/guide/team/removing-team'>Removing team member</a>"
     },
     {
         "question":"How many students/members can I add in the app?",
