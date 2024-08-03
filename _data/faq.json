@@ -1,11 +1,11 @@
 [
     {
         "question":"How safe is my academy data if I use Badmintonbuddy?",
-        "answer":"Your academy data is completely secure with Badmintonbuddy. We never share your data with anyone or anywhere. All information is stored in a highly secure cloud server, ensuring that <b>only you and your team have access</b> to the data. Your privacy and data security are our top priorities."
+        "answer":"Your academy data is completely secure with Badmintonbuddy. We never share your data with anyone or anywhere. All information is stored in a highly secure cloud server, ensuring that <b>only you and your team have access</b> to the data. Check our <a href='/drive/guide/getting-started/security'>detailed article on data security and privacy"
     },
     {
         "question":"Can I give access to my coaches and academy manager?",
-        "answer":"Yes, you can easily provide access to your coaches and academy manager. Utilize the 'Add team' feature outlined in the <a href='guide/drive/adding-team'>guide</a>. Additionally, you have the flexibility to control their permissions through the <a href='guide/drive/how-to-permissions'>Permissions feature</a>, allowing you to tailor access levels according to your preferences."
+        "answer":"Yes, you can easily provide access to your coaches and academy manager. Utilize the 'Add team' feature outlined in the <a href='drive/guide/team/adding-team'>guide</a>. Additionally, you have the flexibility to control their permissions through the <a href='drive/guide/team/team-permissions'>Permissions feature</a>, allowing you to tailor access levels according to your preferences."
     },
     {
         "question":"What happens if the coach left the academy and still has access to the app?",
