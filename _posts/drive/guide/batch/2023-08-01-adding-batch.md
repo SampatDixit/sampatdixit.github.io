@@ -12,7 +12,7 @@ A batch helps you organize multiple students into one group, who are coached tog
 
 ### Steps to Add a Batch
 
-{% include yt-shorts.html videoid='gJRqdp1lzhU'%}
+{% include yt-shorts.html videoid='coLHBXwMqXk'%}
 
 
 1. **Navigate to the Batch Screen**: Located at the bottom of the screen.
