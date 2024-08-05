@@ -13,7 +13,7 @@ If a coach or team member leaves the academy, you can easily remove their access
 
 ### Steps to Remove a Team Member
 
-{% include yt-shorts.html videoid='gJRqdp1lzhU'%} 
+{% include yt-shorts.html videoid='UTkm4kK4kfo'%} 
 
 
 1. **Navigate to Home Screen**:
