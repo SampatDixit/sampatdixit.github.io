@@ -12,7 +12,7 @@ Maintaining student data is a very stressful activity and keeping the data updat
 
 ### Steps to Add a Student
 
-{% include yt-shorts.html videoid='coLHBXwMqXk'%}
+{% include yt-shorts.html videoid='nq-88sL1Rbs'%}
 
 
 1. **Navigate to Home Screen**: Click the **+** button
