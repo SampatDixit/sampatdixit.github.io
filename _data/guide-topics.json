@@ -1,83 +1,81 @@
 [
     {
-        "section": "intro",
-        "topics": [
+      "section": "intro",
+      "topics": [
+        {
+          "name": "Get started",
+          "articles": [
             {
-                "name": "Get started",
-                "articles": [
-                    {
-                        "title": "Why Badmintonbuddy DRIVE?",
-                        "url": "drive/guide/getting-started/why-badmintonbuddy-drive"
-                    },
-                    
-                    {
-                        "title": "Data Security",
-                        "url": "drive/guide/getting-started/security"
-                    },
-                    {
-                        "title": "Creating account",
-                        "url": "drive/guide/getting-started/creating-account"
-                    }
-                ]
+              "title": "Why Badmintonbuddy DRIVE?",
+              "url": "drive/guide/getting-started/why-badmintonbuddy-drive"
+            },
+            {
+              "title": "Data Security",
+              "url": "drive/guide/getting-started/security"
+            },
+            {
+              "title": "Creating account",
+              "url": "drive/guide/getting-started/creating-account"
             }
-        ]
+          ]
+        }
+      ]
     },
     {
-        "section": "Features",
-        "topics": [
+      "section": "Features",
+      "topics": [
+        {
+          "name": "Team",
+          "articles": [
             {
-                "name": "Team",
-                "articles": [
-                    {
-                        "title": "Adding team",
-                        "url": "drive/guide/team/adding-team"
-                    },
-                    {
-                        "title": "Team permissions",
-                        "url": "drive/guide/team/team-permissions"
-                    },
-                    {
-                        "title": "Removing team",
-                        "url": "drive/guide/team/removing-team"
-                    }
-                ]
+              "title": "Adding team",
+              "url": "drive/guide/team/adding-team"
             },
             {
-                "name": "Batch",
-                "articles": [
-                    {
-                        "title": "Adding batch",
-                        "url": "drive/guide/batch/adding-batch"
-                    },
-                    {
-                        "title": "Batch best practices",
-                        "url": "drive/guide/batch/best-practice"
-                    }
-                ]
+              "title": "Team permissions",
+              "url": "drive/guide/team/team-permissions"
             },
             {
-                "name": "Student",
-                "articles": [
-                    {
-                        "title": "Adding student",
-                        "url": "drive/guide/batch/adding-student"
-                    },
-                    {
-                        "title": "Custom Fields",
-                        "url": "drive/guide/batch/custom-fields"
-                    }
-                ]
-            },
-            
-            {
-                "name":"Attendance",
-                "articles":[
-                    {
-                        "title":"Adding attendance",
-                        "url":"drive/guide/attendance/adding-attendance"
-                    }
-                ]
+              "title": "Removing team",
+              "url": "drive/guide/team/removing-team"
             }
-        ]
+          ]
+        },
+        {
+          "name": "Batch",
+          "articles": [
+            {
+              "title": "Adding batch",
+              "url": "drive/guide/batch/adding-batch"
+            },
+            {
+              "title": "Batch best practices",
+              "url": "drive/guide/batch/best-practice"
+            }
+          ]
+        },
+        {
+          "name": "Student",
+          "articles": [
+            {
+              "title": "Adding student",
+              "url": "drive/guide/student/adding-student"
+            },
+            {
+              "title": "Custom Fields",
+              "url": "drive/guide/student/custom-fields"
+            }
+          ]
+        },
+        {
+          "name": "Attendance",
+          "articles": [
+            {
+              "title": "Adding attendance",
+              "url": "drive/guide/attendance/adding-attendance"
+            }
+          ]
+        }
+      ]
     }
-]
+  ]
