@@ -1,33 +1,31 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/student/defining-custom-fields
-title: Adding Student
-excerpt: All student data at one place
-date: 2024-08-05
+permalink: /drive/guide/student/custom-fields
+title: Custom Fields
+excerpt: Capture additional student data as per your needs
+date: 2024-08-10
 tags: student
 categories: guide
 ---
-Maintaining student data is a very stressful activity and keeping the data updated across all team members is still more problamatic. We have solved that with Badmintonbuddy DRIVE
+Define your own custom fields and gather more student data like Height, Weight, Address, Skill Level or any information as per your academy needs.
 
-### Steps to Add a Student
+### Steps to Define Custom Fields
 
-{% include yt-shorts.html videoid='coLHBXwMqXk'%}
+{% include yt-shorts.html videoid='7AGQuJQnXsA'%}
 
 
-1. **Navigate to Home Screen**: Click the **+** button
-2. **Add Student**: Select the **Add Student** icon
-3. **Add Student Screen**: On the add student screen add details like:
-    - **Photo** - Photo of the student
-    - **Batch** - Select the appropriate batch
-    - **Name** - Name of the student
-    - **Enrolled days** - Select the correct enrolled days 
-    - **Fees and other details** - Add fees, phone number and other details
-4. **Custome fields** - If you want to add any more details you can add custom fields of you own. See [defining custom fields](https://link)  for more information.
-4. **Add**: Click the **ADD** button to add the student
+1. **Navigate to Menu**: Click the menu bar at the left button
+2. **Click on Academy Settings**: Click on Academy Settings and then on *Custom Fields*
+3. **Click on Create**: To create a new custom field click on Create
+    - **Pre-built fields** - Select on any pre-built templates like Height, Weight, Skill Level OR
+    - **Choose Custom** - Choose custom to define your own field
+        - **Field Name** - Choose the field name
+        - **Field Description** - Describe your fields 
+        - **Field Type** - We support 3 types of fields 1.Text 2.Date and 3.Single Select
 
-Once all batches are created, you can navigate through all batches, organize students in each batch, track attendance for batches and more.. 
+4. **Save** - Save this newly defined custom field.
 
-You can now start adding students to the new batch.
+Now when you [ADD NEW STUDENT](/drive/guide/student/adding-student), this custom field will appear for every student and you can store the corresponding information.
 
-:dart: Check out [best practices for creating batches](/drive/guide/batch/best-practice).
+
