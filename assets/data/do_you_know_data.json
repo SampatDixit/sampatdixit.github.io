@@ -10,6 +10,16 @@
         "link": "getting-started/security"
     },
     {
+        "name": "all-about-team(video)",
+        "template": "dyk_video_send",
+        "params": [
+            "You can add your team (coach/admin/staff) and set the right permissions.",
+            "You can remove the team member anytime when they leave !!"
+        ],
+        "video":"https://resources.badmintonbuddy.com/assets/img/drive/guide/all-about-team.mp4",
+        "link": "team/adding-team"
+    },
+    {
         "name": "team-add(video)",
         "template": "dyk_video_send",
         "params": [
