@@ -1,7 +1,7 @@
 ---
 layout: bb_blog_post
 author: Sampat
-permalink: /blog/oarganizing-badminton-tournament
+permalink: /blog/organizing-badminton-tournament
 title: How to Organize a Badminton Tournament Without Losing Your Peace of Mind
 excerpt: A step-by-step guide to running a smooth badminton tournament without stress
 date: 2025-03-03
@@ -22,7 +22,7 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Choose the number of categories (singles, doubles, mixed doubles).
 - Set the rules and regulations clearly.
 
-👉 **Tip:** Use EasyDraw’s format selection tool to set up your tournament easily!
+👉 **Tip:** Use [EasyDraw’s](https://easydraws.azurewebsites.net/) format selection tool to set up your tournament easily!
 
 ---
 
@@ -31,7 +31,7 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Allow online registrations to avoid manual errors.
 - Rank players based on their past performances (seeding helps keep matches fair).
 
-👉 **EasyDraw lets you collect registrations and auto-seed players based on rankings!**
+👉 **[EasyDraw](https://easydraws.azurewebsites.net/) lets you collect registrations and auto-seed players based on rankings!**
 
 ---
 
@@ -40,7 +40,7 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Consider match durations and breaks.
 - Have a backup plan for delays.
 
-🎯 **Use EasyDraw’s automatic scheduling feature to save hours of manual work!**
+🎯 **Use [EasyDraw’s](https://easydraws.azurewebsites.net/) automatic scheduling feature to save hours of manual work!**
 
 ---
 
@@ -58,14 +58,14 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Adjust schedules quickly when a player withdraws.
 - Ensure fair decision-making for disputes.
 
-✅ **EasyDraw allows quick modifications and automated re-draws to keep the event running smoothly!**
+✅ **[EasyDraw](https://easydraws.azurewebsites.net/) allows quick modifications and automated re-draws to keep the event running smoothly!**
 
 ---
 
 ## Final Thoughts
 Organizing a badminton tournament doesn’t have to be stressful. With proper planning and the right tools like EasyDraw, you can focus on making the event a success while the software handles the complexities. 
 
-🏸 **Try EasyDraw today and make your tournament hassle-free!** 🚀
+🏸 **Try [EasyDraw](https://easydraws.azurewebsites.net/) today and make your tournament hassle-free!** 🚀
 
 ---
 
