@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/badminton-tournament-format
-title: Badminton Tournament Formats: Which One is Right for You?
+title: Badminton Tournament Formats - Which One is Right for You?
 excerpt: Understanding different tournament formats to choose the best one for your event
 date: 2025-03-03
 image: /assets/img/blog/new-academy.png
