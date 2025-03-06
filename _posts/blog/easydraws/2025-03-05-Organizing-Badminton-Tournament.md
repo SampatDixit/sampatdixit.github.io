@@ -12,12 +12,12 @@ categories: blog
 ---
 
 
-Organizing a badminton tournament sounds exciting, but it comes with a lot of challenges. From registrations to scheduling matches, court management, and handling last-minute changes, it can quickly become overwhelming. But don’t worry! With the right planning and tools like EasyDraw, you can manage everything smoothly.
+Organizing a badminton tournament sounds exciting, but it comes with a lot of challenges. From getting right registrations to [creating draws](https://easydraws.azurewebsites.net/drawoptions), scheduling matches, court management, and handling last-minute changes, it can quickly become overwhelming. But don’t worry! With the right planning and tools like [EasyDraw](https://easydraws.azurewebsites.net/tools), you can manage everything smoothly.
 
 ---
 
 ## Step 1: Plan Your Tournament Format
-- Decide the format: Knockout, Round Robin, or Swiss system. Each has its pros and cons.
+- Decide the format: Knockout (Single Elimination), Double Elimination, Round Robin. Each has its pros and cons.
 - Choose the number of categories (singles, doubles, mixed doubles).
 - Set the rules and regulations clearly.
 
@@ -30,7 +30,15 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Allow online registrations to avoid manual errors.
 - Rank players based on their past performances (seeding helps keep matches fair).
 
-👉 **[EasyDraw](https://easydraws.azurewebsites.net/) lets you collect registrations and auto-seed players based on rankings!**
+👉 **[EasyDraw](https://easydraws.azurewebsites.net/) allows you to seed players and create draws accordingly!**
+
+---
+## Step 3: Create the Draws for Each categories
+- [Create draws](https://easydraws.azurewebsites.net/drawoptions) with all fairness.
+- Draws should consider seeding and rankings (if any).
+- Draws to cater to any last minute entries (on the spot entries).
+
+🎯 **[Tips to create a fair draw](/blog/draws-badminton-tournament)**
 
 ---
 
@@ -43,12 +51,12 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 
 ---
 
-## Step 4: Manage Live Scores & Results
-- Keep participants updated with real-time scores.
+## Step 4: Manage Results & Progress
+- Keep participants updated with match updates.
 - Announce winners instantly.
 - Share results online for better engagement.
 
-📢 **EasyDraw offers live score tracking and instant result sharing!**
+📢 **With EasyDraw's notification participants, their coaches can get [real-time updates](/easdraw/features/real-time-notifications) of match results!**
 
 ---
 
@@ -57,7 +65,7 @@ Organizing a badminton tournament sounds exciting, but it comes with a lot of ch
 - Adjust schedules quickly when a player withdraws.
 - Ensure fair decision-making for disputes.
 
-✅ **[EasyDraw](https://easydraws.azurewebsites.net/) allows quick modifications and automated re-draws to keep the event running smoothly!**
+✅ **[EasyDraw](/feature/reporting) automated QR reporting helps in tracking of players, ensures timely start of matches!**
 
 ---
 
