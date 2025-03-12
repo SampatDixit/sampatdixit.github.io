@@ -29,8 +29,8 @@ In local tournaments, seeding is usually based on:
 
 Once players are seeded, they are placed in a tournament draw so that the highest-seeded players meet only in the later rounds.  
 
-## **Easily Manage Seeding with EasyDraw!**  
-Manually handling seeding can be confusing, especially when dealing with multiple players and categories. **EasyDraw** automates the process by allowing you to input player details, apply seeding rules, and generate a **fair, balanced tournament draw in seconds!**  
+## **Easily Manage Seeding with [EasyDraw](https://easydraws.azurewebsites.net/)!**  
+Manually handling seeding can be confusing, especially when dealing with multiple players and categories. **[EasyDraw](https://easydraws.azurewebsites.net/)** automates the process by allowing you to input player details, apply seeding rules, and generate a **fair, balanced tournament draw in seconds!**  
 
 ➡️ Try **[EasyDraw](https://easydraws.azurewebsites.net/)** today and simplify your tournament management!  
 
