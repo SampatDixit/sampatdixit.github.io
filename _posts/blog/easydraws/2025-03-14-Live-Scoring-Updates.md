@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/live-tournament-updates
-title: Live Scoring & Online Results: Why Every Tournament Needs It
+title: Live Scoring & Online Results - Why Every Tournament Needs It
 excerpt: Enhance engagement with real-time match updates and online results
 date: 2025-03-14
 image: /assets/img/blog/new-academy.png
