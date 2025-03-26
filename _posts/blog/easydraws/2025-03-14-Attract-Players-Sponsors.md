@@ -5,7 +5,7 @@ permalink: /blog/attract-more-players-sponsors
 title: How to Attract More Players & Sponsors for Your Badminton Tournament
 excerpt: Grow your tournament with smart marketing, sponsorships and community outreach
 date: 2025-03-14
-image: /assets/img/blog/new-academy.png
+image: /assets/img/blog/attract-players.png
 imagealt: Tournament Draws
 tags: badminton-tournament easydraw tournament-marketing
 categories: blog
