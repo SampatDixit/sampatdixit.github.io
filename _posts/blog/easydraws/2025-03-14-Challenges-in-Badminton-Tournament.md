@@ -5,7 +5,7 @@ permalink: /blog/challanges-in-running-badminton-tournaments
 title: Challenges in Conducting a Badminton Tournament
 excerpt: Delayed Reporting, disputes, and scheduling delays
 date: 2025-03-15
-image: /assets/img/blog/new-academy.png
+image: /assets/img/blog/challenges-conduct-tournament.png
 imagealt: Tournament Draws
 tags: badminton-tournament easydraw tournament-challenges
 categories: blog
