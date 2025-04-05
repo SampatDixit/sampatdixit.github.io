@@ -5,7 +5,7 @@ permalink: /blog/create-badminton-draws
 title: How to Create Badminton Tournament Draws Easily (Without Bias)
 excerpt: Create fair draws with the right seeding logic and draw methods
 date: 2025-03-13
-image: /assets/img/blog/new-academy.png
+image: /assets/img/blog/create-tournament-draws.png
 imagealt: Tournament Draws
 tags: badminton-tournament easydraw how-to
 categories: blog
