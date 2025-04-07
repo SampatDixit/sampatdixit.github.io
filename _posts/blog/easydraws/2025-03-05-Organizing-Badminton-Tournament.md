@@ -5,7 +5,7 @@ permalink: /blog/organizing-badminton-tournament
 title: How to Organize a Badminton Tournament Without Losing Your Peace of Mind
 excerpt: A step-by-step guide to running a smooth badminton tournament without stress
 date: 2025-03-03
-image: /assets/img/blog/new-academy.png
+image: /assets/img/blog/organize.tournament.peace.png
 imagealt: Badminton Tournament Planning
 tags: badminton-tournament easydraw
 categories: blog
