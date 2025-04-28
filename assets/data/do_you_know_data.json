@@ -60,7 +60,17 @@
     "link": "attendance/adding-attendance"
   },
   {
-    "name": "team-add(video)",
+    "name": "subscription-billing(video)",
+    "template": "dyk_video_send",
+    "params": [
+      "Know all about Badmintonbuddy DRIVE subscription.",
+      "Trasparent pricing, cancel anytime..no upfront cost !!"
+    ],
+    "video": "https://resources.badmintonbuddy.com/assets/img/drive/guide/drive-billing.mp4",
+    "link": ""
+  },
+  {
+    "name": "team-add(do-not-send)",
     "template": "dyk_video_send",
     "params": [
       "You can add your team (coach/admin/staff) and set the right permissions.",
@@ -70,7 +80,7 @@
     "link": "team/adding-team"
   },
   {
-    "name": "team-permisions(video)",
+    "name": "team-permisions(do-not-send)",
     "template": "dyk_video_send",
     "params": [
       "Add your team and set the right permissions.",
