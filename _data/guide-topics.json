@@ -64,6 +64,10 @@
             {
               "title": "Custom Fields",
               "url": "drive/guide/student/custom-fields"
+            },
+            {
+              "title": "Deleting Student",
+              "url": "drive/guide/student/deleting-student"
             }
           ]
         },
