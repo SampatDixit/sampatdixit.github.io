@@ -1,7 +1,7 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/finance/add-income
+permalink: /drive/guide/accounts-manager/add-income
 title: Add Income
 excerpt: Record all academy income in one place
 date: 2025-05-23
