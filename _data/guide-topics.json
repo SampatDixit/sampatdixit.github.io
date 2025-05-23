@@ -79,6 +79,28 @@
               "url": "drive/guide/attendance/adding-attendance"
             }
           ]
+        },
+        {
+          "name": "Enquiry",
+          "articles": [
+            {
+              "title": "Adding enquiry",
+              "url": "drive/guide/enquiry/add-enquiry"
+            }
+          ]
+        },
+        {
+          "name": "Accounts Manager",
+          "articles": [
+            {
+              "title": "Adding income",
+              "url": "drive/guide/accounts-manager/add-income"
+            },
+            {
+              "title": "Adding expense",
+              "url": "drive/guide/accounts-manager/add-expense"
+            }
+          ]
         }
       ]
     }
