@@ -1,7 +1,7 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/enquiry/add-enquiry
+permalink: /drive/guide/enquiry/adding-enquiry
 title: Add Enquiry
 excerpt: Log and manage all student enquiries
 date: 2025-05-23
