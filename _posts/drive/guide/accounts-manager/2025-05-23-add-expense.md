@@ -1,7 +1,7 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/accounts-manager/add-expense
+permalink: /drive/guide/accounts-manager/adding-expense
 title: Add Expense
 excerpt: Track all academy expenses accurately
 date: 2025-05-23
