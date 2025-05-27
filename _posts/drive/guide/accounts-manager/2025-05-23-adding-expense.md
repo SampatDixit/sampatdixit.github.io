@@ -2,7 +2,7 @@
 layout: bb_guide_post
 author: Sampat
 permalink: /drive/guide/accounts-manager/adding-expense
-title: Add Expense
+title: Adding Expense
 excerpt: Track all academy expenses accurately
 date: 2025-05-23
 tags: expense
