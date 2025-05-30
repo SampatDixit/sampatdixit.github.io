@@ -2,7 +2,7 @@
 layout: bb_guide_post
 author: Sampat
 permalink: /drive/guide/getting-started/creating-account
-title: How to Create an Account on Badmintonbuddy DRIVE
+title: Creating Account
 excerpt: A quick guide to help you set up your Badmintonbuddy DRIVE account and get started with managing your academy.
 date: 2025-05-30
 tags: intro onboarding
@@ -74,7 +74,7 @@ Once you're in:
   - Taking attendance
   - Collecting and tracking fees
 
-> 📌 Each feature has a dedicated guide – check the [guides section](/drive/guide/) for more details.
+> 📌 Each feature has a dedicated guide – check the [guides section](/drive/guide) for more details.
 
 ---
 
@@ -88,7 +88,7 @@ That’s it – you’re ready to run your academy digitally!
 ---
 
 Need help with the next steps?  
-Check out [How to Add Students](/drive/guide/student/addding-student) or [Set Up Batches](/drive/guide/batch/adding-batch).
+Check out [How to Add Students](/drive/guide/student/adding-student) or [Set Up Batches](/drive/guide/batch/adding-batch).
 
 ---
 
