@@ -1,7 +1,7 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/intro/why-badmintonbuddy-drive
+permalink: /drive/guide/getting-started/why-badmintonbuddy-drive
 title: Why Badmintonbuddy DRIVE 
 excerpt: The Academy Management App You Can Rely On
 date: 2025-05-30
