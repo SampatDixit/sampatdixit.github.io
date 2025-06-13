@@ -71,6 +71,19 @@
             }
           ]
         },
+          {
+          "name": "Fees",
+          "articles": [
+            {
+              "title": "Receiving Fees",
+              "url": "drive/guide/fees/receiving-fees"
+            },
+            {
+              "title": "Pending Fees List",
+              "url": "drive/guide/fees/fee-status"
+            }
+          ]
+        },
         {
           "name": "Attendance",
           "articles": [
