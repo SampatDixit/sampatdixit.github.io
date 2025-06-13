@@ -1,7 +1,7 @@
 ---
 layout: bb_guide_post
 author: Sampat
-permalink: /drive/guide/fees/fees-status
+permalink: /drive/guide/fees/fee-status
 title: Viewing Pending/Paid List
 excerpt: Track student fee status in real time
 date: 2025-06-10
