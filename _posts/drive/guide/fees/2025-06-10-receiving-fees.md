@@ -25,8 +25,10 @@ Collecting and tracking student fees is a core part of running any academy. With
 10. **Click SAVE**
 
  <div style="text-align: center;">
-  <img src="../../../../assets/img/drive/guide/fee-receipt-anatomy.png" width="400" title="Fee Receipt Anatomy">
+  <img src="../../../../assets/img/drive/guide/fee-anatomy-white.png" width="400" title="Fee Receipt Anatomy">
 </div>
+
+
 
 
 Now all collected fees are stored in one centralized location, and you can view detailed reports in the **Reports** tab.
