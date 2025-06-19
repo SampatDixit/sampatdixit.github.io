@@ -25,7 +25,7 @@ Both these modes are available in the **Badmintonbuddy DRIVE** app. You can set 
 3. Click on **Academy Settings**  
 4. Click on **Settings**  
 5. Click on **Fee Settings**  
-6. Choose **Date of Joining** or **1st of Month**, then click **SAVE**
+6. Choose **Date of Joining** then click **SAVE**
 
 Now, your fee tracking will follow the selected **due date mode**.
 
