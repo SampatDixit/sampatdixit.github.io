@@ -16,7 +16,7 @@ Collecting and tracking student fees is a core part of running any academy. Gene
 1. **Fixed Monthly Due**: Collect fees on the 1st of every month. (If a student joins mid-month, you can charge half-month fees.)
 2. **Joining Date-Based Due**: Collect fees based on the student’s joining date. (For example, if a student joins on the 12th, the next due date will be the 12th of the following month.)
 
-Both these modes are available in the **BadmintonBuddy DRIVE** app. You can set the one that fits your academy’s needs — and it's simple to do.
+Both these modes are available in the **Badmintonbuddy DRIVE** app. You can set the one that fits your academy’s needs — and it's simple to do.
 
 ### Steps to Set Due Date Mode
 
