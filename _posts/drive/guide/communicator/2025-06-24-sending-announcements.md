@@ -23,19 +23,13 @@ categories: guide
 
 #### Available Message Templates:
 
-4. **Fee Reminder** – Automatically send fee due reminders to parents/members  
-   - To enable: Click on **Communicator Settings** and turn on **Auto Fee Reminder**
+1. **Declare Holiday (Single Day)** – Specify the reason and select the date of the holiday. Preview the message and click **Send**. The message will be sent to all active students.
 
-5. **Fee Acknowledgement** – Automatically send a message when fees are received through the app  
-   - To enable: Click on **Communicator Settings** and turn on **Auto Fee Acknowledge**
+2. **Declare Holiday (Multiple Days)** – Specify the reason and select both **Start Date** and **End Date** (e.g., 25th June to 27th June). Preview the message and click **Send**. The message will be sent to all active students.
 
-6. **Declare Holiday (Single Day)** – Specify the reason and select the date of the holiday. Preview the message and click **Send**. The message will be sent to all active students.
+3. **Class Cancellation** – Enter the reason (e.g., heavy rains), select the date and choose the affected batch (either all batches or a specific one). The message will be sent to active students of that batch.
 
-7. **Declare Holiday (Multiple Days)** – Specify the reason and select both **Start Date** and **End Date** (e.g., 25th June to 27th June). Preview the message and click **Send**. The message will be sent to all active students.
-
-8. **Class Cancellation** – Enter the reason (e.g., heavy rains), select the date and choose the affected batch (either all batches or a specific one). The message will be sent to active students of that batch.
-
-9. **Meeting Invite** – Add meeting details (reason, date, and time), then select the batches for which parents need to be invited. Preview and send the message.
+4. **Meeting Invite** – Add meeting details (reason, date, and time), then select the batches for which parents need to be invited. Preview and send the message.
 
 ---
 
