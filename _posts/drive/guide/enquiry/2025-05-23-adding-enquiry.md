@@ -13,6 +13,8 @@ Enquiries often come in through walk-ins, phone calls, or social media. With **B
 
 ### Steps to Add Enquiry
 
+{% include yt-shorts.html videoid='rA6wnWaZsJY'%}
+
 1. **Navigate to Home Screen**: Click on **Enquiries** on the top  
 2. **Click on New**  
 3. **Select Batch** from the list  
