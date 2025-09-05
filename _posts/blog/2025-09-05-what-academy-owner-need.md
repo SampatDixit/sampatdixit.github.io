@@ -1,3 +1,4 @@
+---
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/guide-to-what-academy-owners-need
