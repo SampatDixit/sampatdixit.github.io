@@ -1,12 +1,14 @@
 ---
-layout: bb_guide_post
+layout: bb_blog_post
 author: Sampat
-permalink: /drive/guide/analytics/academy-numbers-weekly
+permalink: /blog/guide-to-what-academy-owners-track-weekly
 title: Your Academy in Numbers: What Should Owners Track Weekly
-excerpt: The data-led guide every academy owner should track
+excerpt:  Key things to look for in an academy software
 date: 2025-09-06
-tags: analytics, reports, performance
-categories: guide
+image: /assets/img/blog/new-academy.png
+imagealt: Academy Software
+tags: academy-tips academy-management
+categories: blog
 ---
 
 ### The Data-Led Guide Every Academy Owner Needs
@@ -43,7 +45,7 @@ Just 15 minutes a week with the right dashboard can:
 - Payment mode breakdown (cash, UPI, online)  
 
 *Sample Dashboard View:* 
-!(weekly transactions)[/assets/img/blog/weekly-transactions.png]
+[weekly transactions](/assets/img/blog/weekly-transactions.png)
 
 ---
 
