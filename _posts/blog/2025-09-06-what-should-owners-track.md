@@ -45,7 +45,6 @@ Just 15 minutes a week with the right dashboard can:
 - Payment mode breakdown (cash, UPI, online)  
 
 *Sample Dashboard View:* 
-[weekly transactions](/assets/img/blog/weekly-transactions.png)
 
 ---
 
