@@ -2,7 +2,7 @@
 layout: bb_blog_post
 author: Sampat
 permalink: /blog/guide-to-what-academy-owners-track-weekly
-title: Your Academy in Numbers: What Should Owners Track Weekly
+title: Your Academy in Numbers- What Should Owners Track Weekly
 excerpt:  Key things to look for in an academy software
 date: 2025-09-06
 image: /assets/img/blog/new-academy.png
