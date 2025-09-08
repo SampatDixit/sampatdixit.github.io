@@ -45,7 +45,7 @@ Just 15 minutes a week with the right dashboard can:
 - Payment mode breakdown (cash, UPI, online)  
 
 *Sample Dashboard View:* 
-
+![Fee Overview](/assets/img/blog/revenue-collected.png)
 ---
 
 {% include promo-box.html %}
@@ -59,6 +59,7 @@ Just 15 minutes a week with the right dashboard can:
 - Follow-ups sent vs pending  
 
 *Sample Dashboard View:*  
+![Fee Overview](/assets/img/blog/fee-pending.png)
 
 ---
 
@@ -71,6 +72,7 @@ Just 15 minutes a week with the right dashboard can:
 - Batches over 100% capacity  
 
 *Sample Dashboard View:*  
+![Fee Overview](/assets/img/blog/batch-fill-rate.png)
 
 ---
 
@@ -83,6 +85,7 @@ Just 15 minutes a week with the right dashboard can:
 - Batch-wise attendance dip  
 
 *Sample Dashboard View:*  
+![Fee Overview](/assets/img/blog/attendance-snapshot.png)
 
 ---
 
@@ -95,6 +98,7 @@ Just 15 minutes a week with the right dashboard can:
 - New joins from enquiries  
 
 *Sample Dashboard View:*  
+![Fee Overview](/assets/img/blog/enquiry-month-wise.png)
 
 ---
 
